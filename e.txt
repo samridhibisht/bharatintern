@@ -1,0 +1,1319 @@
+FROM 151:
+{
+  "title": "Intentional Flooding",
+  "content": [
+    {
+      "section": "Notice of Intention to Flood",
+      "subsections": [
+        {
+          "number": "1",
+          "text": "When the owner, agent, or manager intends or proposes to flood any part of the workings of the mine by introducing water, whether from the surface, any other part of the mine, or an adjacent mine, they must provide written notice of this intention or proposal. This notice should be submitted at least fourteen days in advance to the following parties:",
+          "points": [
+            "Chief Inspector",
+            "Regional Inspector",
+            "Management of all adjoining mines",
+            "Management of mines that might be affected by the flooding"
+          ],
+          "provisos": [
+            {
+              "text": "The Regional Inspector has the authority to permit these operations to commence before the expiration of the fourteen-day notice period, subject to specified conditions."
+            },
+            {
+              "text": "The Regional Inspector may either prohibit the operation or require specific precautions to be taken to their satisfaction before commencement, as outlined in a written order."
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "text": "If the operations described in the notice provided in sub-regulation (1) are not initiated within sixty days after the fourteen-day notice period has expired, the notice shall be considered lapsed. Sub-regulation (1) will then apply as if no notice had been given."
+        }
+      ]
+    }
+  ]
+}
+
+
+{
+  "title": "Construction of Reservoir, Water Dam, etc.",
+  "context": "Where in any mine, it is intended to construct a reservoir, dam, or other structure designed to withstand water pressure or control the flow of water or other materials when wet, or to manage an inrush of water, the owner, agent, or manager must adhere to the following rules:",
+  "rules": [
+    {
+      "number": 1,
+      "description": "The owner, agent, or manager must provide written notice of this intention to the Regional Inspector at least fourteen days in advance. This notice should include two copies of plans and sections detailing the design and other relevant information about the proposed construction."
+    },
+    {
+      "number": 2,
+      "description": "In cases where the safety of the mine or the well-being of the employees is significantly at risk, the requirement for a fourteen-day notice can be waived. Instead, the notice should be given to the Regional Inspector as soon as the construction work begins."
+    },
+    {
+      "number": 3,
+      "description": "The Regional Inspector holds the authority to issue a written order mandating modifications or alterations to the design of the reservoir, dam, or structure as specified in the order."
+    }
+  ]
+}
+
+{
+  "title": "Standard of Ventilation in Mines",
+  "context": "The following rules outline the standard of ventilation that must be maintained in mines to ensure the safety and health of the workers.",
+  "rules": [
+    {
+      "rule_number": "153(1)",
+      "text": "The owner, agent, or manager of every mine must provide adequate ventilation in all underground parts of the mine. This ventilation should clear away smoke, steam, and dust, dilute inflammable or noxious gases to render them harmless, provide sufficient oxygen in the air, and prevent excessive temperature or humidity that could harm people's health."
+    },
+    {
+      "rule_number": "153(2)(a)",
+      "text": "To ensure adequate ventilation, in every ventilating district, there must be a minimum of six cubic meters per minute of air per person employed or 2.5 cubic meters per minute of air per tonne of daily output, whichever is larger, passing along the last ventilation connection in that district."
+    },
+    {
+      "rule_number": "153(2)(b)",
+      "text": "In all areas of the mine where people work or pass, the air must contain at least 19% oxygen and not more than 0.5% carbon dioxide or any noxious gas that could harm individuals' health."
+    },
+    {
+      "rule_number": "153(2)(c)",
+      "text": "The percentage of inflammable gas in the return air of any ventilating district must not exceed 0.75. In other areas of the mine, it must not exceed 1.25."
+    },
+    {
+      "rule_number": "153(2)(d)",
+      "text": "The wet bulb temperature in any working place should not exceed 33.5 degrees Celsius. If it exceeds 30.5 degrees Celsius, arrangements must be made to ventilate the area with air moving at a speed of at least one meter per second."
+    },
+    {
+      "rule_number": "153(2)(e)",
+      "text": "To ensure compliance with the provisions of clauses (b), (c), and (d), air samples and temperature readings must be taken at least once every thirty days and recorded in a designated book."
+    },
+    {
+      "rule_number": "153(2) proviso",
+      "text": "The Chief Inspector may approve a ventilation scheme that deviates from the above provisions if special conditions exist at a mine or part thereof."
+    },
+    {
+      "rule_number": "153(3)",
+      "text": "Mechanical ventilators must be used to produce the specified ventilation in every mine."
+    },
+    {
+      "rule_number": "153(4)",
+      "text": "If the Regional Inspector believes that the ventilation in a mine is inadequate, they can require the installation and maintenance of a suitable mechanical ventilator through a written order."
+    }
+  ]
+}
+{
+"title": "Main Mechanical Ventilator Installation",
+"content": "(1) Every main mechanical ventilator in a mine shall be capable of producing adequate ventilation in the mine or part thereof, and shall be installed on the surface at a distance of not less than 10 meters from the opening of the shaft or incline at any point.\n\nProvided that the provisions of this sub-regulation in so far as they require the installation of the main mechanical ventilator at a distance of not less than ten meters from the opening of the shaft or incline, shall not apply to a mechanical ventilator installed on the surface before the 24th day of October, 1957.",
+"sub_rules": [
+{
+"title": "Electrical Drive",
+"content": "(2) If electricity is used for driving the mechanical ventilator, electrical energy shall be supplied to the drive motor of the ventilator through a separate circuit from the main distribution point of the mine."
+},
+{
+"title": "Multiple Power Sources",
+"content": "(3) In every belowground working, two different sources of power to the mechanical ventilator shall be provided."
+},
+{
+"title": "Pressure Recording Instrument",
+"content": "(4) There shall be provided and maintained at every main mechanical ventilator, a recording instrument to continuously register the pressure developed."
+},
+{
+"title": "Airflow Reversal Capability",
+"content": "(5) Every main mechanical ventilator shall be so designed, installed and maintained that the current of air can be reversed when necessary."
+},
+{
+"title": "Air Lock at Shaft or Incline",
+"content": "(6) At every shaft or incline ordinarily used for lowering or raising of persons or materials where a mechanical ventilator is installed, there shall be provided a properly constructed air lock."
+}
+]
+}
+{
+"title": "Main mechanical ventilator installation",
+"content": "Every main mechanical ventilator in a mine shall be capable of producing adequate ventilation in the mine or part thereof, and shall be installed on the surface at a distance of not less than 10 meters from the opening of the shaft or incline at any point. Provided that the provisions of this sub-regulation in so far as they require the installation of the main mechanical ventilator at a distance of not less than ten metres from the opening of the shaft or incline, shall not apply to a mechanical ventilator installed on the surface before the 24th day of October, 1957."
+},
+{
+"title": "Electrical drive for ventilator",
+"content": "If electricity is used for driving the mechanical ventilator, electrical energy shall be supplied to the drive motor of the ventilator through a separate circuit from the main distribution point of the mine."
+},
+{
+"title": "Multiple power sources",
+"content": "In every belowground working, two different sources of power to the mechanical ventilator shall be provided."
+},
+{
+"title": "Pressure recording instrument",
+"content": "There shall be provided and maintained at every main mechanical ventilator, a recording instrument to continuously register the pressure developed."
+},
+{
+"title": "Air flow reversal capability",
+"content": "Every main mechanical ventilator shall be so designed, installed and maintained that the current of air can be reversed when necessary."
+},
+{
+"title": "Air lock provision",
+"content": "At every shaft or incline ordinarily used for lowering or raising of persons or materials where a mechanical ventilator is installed, there shall be provided a properly constructed air lock."
+}
+{
+  "title": "Restriction on installation of mechanical ventilator belowground",
+  "content": [
+    {
+      "section": "Installation in fiery or gassy seams",
+      "subsections": [
+        {
+          "letter": "a",
+          "text": "No booster fan shall be installed belowground in the mine unless the manager is satisfied, as a result of a survey of the ventilation of every part of the mine liable to be affected, that such installation is necessary or expedient for the proper ventilation of the mine and that it should be installed."
+        },
+        {
+          "letter": "b",
+          "text": "Seven days’ prior notice of every such installation under clause (a), together with particulars of the survey aforesaid, shall be sent to the Regional Inspector."
+        }
+      ]
+    },
+    {
+      "section": "Explanation",
+      "text": "For the purposes of this regulation, it is clarified that the shifting of a booster fan from one place to another shall be deemed to be an installation of a booster fan."
+    },
+    {
+      "section": "Discontinuation of booster fan use",
+      "text": "The Regional Inspector may at any time, by an order in writing, require the use of any booster fan installed belowground in the mine to be discontinued."
+    }
+  ]
+}
+{
+  "title": "Installation and Maintenance of Mechanical Ventilator",
+  "content": [
+    {
+      "section": "Placement of Electrically Driven Fans",
+      "text": "In every belowground coal mine where a booster or auxiliary fan is electrically driven, the drive motor, unless it is so constructed, installed, operated and maintained as to prevent the risk of open sparking, shall not be placed in a return airway."
+    },
+    {
+      "section": "Supervision and Control",
+      "text": "The installation and maintenance of every mechanical ventilator and booster fan shall be supervised and controlled by a competent person appointed for the purpose."
+    },
+    {
+      "section": "Examination and Recording",
+      "text": "A competent person appointed for maintenance of mechanical ventilator and booster fan shall once at least in every seven days, examine every mechanical ventilator and booster fan in use and shall record the results of such examination in a bound paged book kept for the purpose. Any serious defect revealed by such examination shall without delay be brought to the notice of the manager."
+    },
+    {
+      "section": "Authorization for Fan Alterations",
+      "text": "Except in an emergency, no person shall start, stop, restart, remove or in any way alter, repair or interfere with any ventilator or booster fan, except by or on the written authority of the manager or other official authorised in writing in this behalf."
+    },
+    {
+      "section": "Record of Alterations and Stoppages",
+      "text": "Particulars of every alteration and every stoppage, including any stoppage beyond control, together with the duration thereof shall be recorded by the competent person appointed under this regulation, in a bound paged book kept for the purpose. Whenever a mechanical ventilator or a booster fan has been stopped for any reason whatsoever, the competent person shall immediately record the time of stoppage in the aforesaid book and send it to the manager or the person authorised in this behalf for his appraisal. The manager, or the person authorised, as the case may be, shall sign the entry with date in the bound paged book in respect of the stoppage. In case the stoppage is brought to the notice of an official other than the manager or person authorised, the said official shall immediately inform the fact in writing to the manager or in his absence, to any person authorised in this behalf or the official superior to the manager. The manager or such person or superior official, as the case may be, shall acknowledge in writing the receipt of such information and shall take necessary action for the safety of persons employed in the mine. Details of every action thus taken by him shall be recorded in the aforesaid book."
+    },
+    {
+      "section": "Electric Supply Disconnection",
+      "text": "The manager or the person authorised or the senior official, referred to in the sub-regulation (6), on being informed or coming to know of the stoppage of a mechanical ventilator or a booster fan, shall decide about disconnecting electric supply to the mine and the extent of such disconnection. The details of such disconnection shall be entered in the bound paged book kept for the purpose. In the case of stoppage of the mechanical ventilator or the booster fan, the electrical supply or the other source of drive to any auxiliary fan, if installed, shall be disconnected immediately by an arrangement of sequence control or other effective arrangement."
+    },
+    {
+      "section": "Air Quantity Measurement",
+      "text": "In every mine in which a mechanical ventilator is in use, the quantity of air shall, once at least in every fourteen days, be measured in various locations including main intake and return airways, splits, ventilating districts, and any other point specified by the Regional Inspector. The measurements shall be entered in a bound paged book kept for the purpose. In non-fiery seams or gassy seams of the first degree, air measurement shall be taken once in every thirty days."
+    },
+    {
+      "section": "Changes in Ventilation System",
+      "text": "The measurements referred to in sub-regulation (8) shall also be taken and recorded whenever the system of ventilation is so altered as to substantially affect or likely to affect the ventilation of the mine."
+    },
+    {
+      "section": "In-Charge of Ventilator or Fan",
+      "text": "Every such ventilator or fan shall be in charge of a competent person appointed for the purpose, who shall not be entrusted with any other additional duties which may interfere with his duties as in-charge of ventilator or fan, as the case may be."
+    }
+  ]
+}
+{
+  "title": "Standing Orders",
+  "content": [
+    {
+      "section": "Submission of Standing Orders",
+      "text": "The manager of every mine in which a mechanical ventilator other than an auxiliary fan is installed shall submit, within a period of thirty days of the installation, standing orders to the Regional Inspector. These standing orders shall specify the action that shall be taken with respect to the withdrawal of persons from the mine or part thereof in the event of a stoppage of the ventilator."
+    },
+    {
+      "section": "Approval by Regional Inspector",
+      "text": "The Regional Inspector may, by an order in writing, approve the standing orders referred to in sub-regulation (1), either in the form submitted to him or with such additions and alterations as he may think fit. The standing orders so approved shall be enforced at the mine."
+    },
+    {
+      "section": "Display of Standing Orders",
+      "text": "A copy of the standing orders in English and other local language understood by the majority of the persons employed in the mine shall be displayed at conspicuous places in the mine, both above and belowground."
+    }
+  ]
+}
+{
+  "title": "Splits and Airways",
+  "content": [
+    {
+      "section": "Districts or Splits Division",
+      "text": "For the purposes of ventilation, every mine shall be divided into such a number of districts or splits as to ensure that a separate current of fresh air is made available in every such district or split."
+    },
+    {
+      "section": "Intake Air Arrangement",
+      "text": "The intake air shall be so arranged as to travel away from all stagnant water."
+    },
+    {
+      "section": "Provision of Independent Intake Airways",
+      "text": "In every ventilating district, there shall be provided two independent intake airways, one of which shall be used as a traveling roadway. Provided that if the Regional Inspector is satisfied that compliance with this regulation is not reasonably practicable, he may, by an order in writing and subject to such conditions as he may specify therein, grant exemption from the provisions thereof."
+    },
+    {
+      "section": "Doors for Main Airway Connections",
+      "text": "Every connection between a main intake airway and a main return airway shall, until it is no longer required and has been sealed off, be provided with at least two doors so spaced that whenever one door is opened, the other door can be kept closed. Steps shall be taken to ensure that at least one of the doors is always closed. Provided that any such connection which is no longer required shall be effectively sealed."
+    }
+  ]
+}
+{
+  "title": "Brattices, Doors, Stoppings, and Air-Crossings",
+  "content": [
+    {
+      "section": "Provision and Maintenance of Ventilation Devices",
+      "text": "There shall be provided and maintained in every mine such a number of air-crossings, stoppings, doors, brattices, and other devices as may be adequate to ensure compliance with the provisions of regulation 153."
+    },
+    {
+      "section": "Adequacy Verification",
+      "text": "In case of any doubt as to the adequacy of such ventilation devices, it shall be referred to the Chief Inspector for decision."
+    },
+    {
+      "section": "Ventilation Door Frame Space",
+      "text": "The space between the frame of every ventilation door and the roof and sides of the roadway shall be built up with masonry or concrete, not less than 25 centimeters in thickness."
+    },
+    {
+      "section": "Self-Closing Ventilation Doors",
+      "text": "Every ventilation door shall be self-closing, and whenever opened, it shall be closed as soon as possible, and shall not be propped or fixed so as to remain open."
+    },
+    {
+      "section": "Door Attendant for Frequent Use",
+      "text": "If the ventilation door is required to be frequently kept open for the passage of men or material, there shall be throughout every working shift, a door attendant at the door."
+    },
+    {
+      "section": "Storage of Unused Doors",
+      "text": "If a door is not in use, it shall be taken off its hinges and placed in such a position that it shall not cause any obstruction to the air current."
+    },
+    {
+      "section": "Construction of Ventilation Stoppings",
+      "text": "Every stopping between the main intake and main return airways shall be constructed of masonry or brickwork or of concrete without reinforcement, not less than 25 centimeters in thickness. If constructed of properly reinforced concrete, it shall be not less than 15 centimeters in thickness or such greater thickness as may be required by the Regional Inspector, and shall be faced with a sufficient thickness of lime or cement plaster to prevent leakage of air."
+    },
+    {
+      "section": "Explosion-Proof Stoppings",
+      "text": "In case of a mine having problems of fires or spontaneous heating along with the working of coal seams of degree two or degree three gassiness, the Chief Inspector may by an order in writing and subject to such conditions as he may specify therein, require the construction of explosion-proof ventilation stoppings between the main intake and the main return airways and at such other places as may be specified by him."
+    },
+    {
+      "section": "Accessibility of Stoppings",
+      "text": "Every stopping in use shall be kept accessible for inspection."
+    },
+    {
+      "section": "Construction of Air-Crossings",
+      "text": "The partitions and walls of every air-crossing shall be not less than 25 centimeters in thickness if constructed of masonry or of concrete not properly reinforced, and not less than 15 centimeters in thickness if constructed of properly reinforced concrete."
+    },
+    {
+      "section": "Maintenance of Ventilation Devices",
+      "text": "Every air-crossing, ventilation stopping, door, or brattice shall be maintained in efficient working order and good repair."
+    },
+    {
+      "section": "Examination and Recording",
+      "text": "A competent person shall, once at least in every fourteen days, examine every airway, air crossing, ventilation stopping, and door in use, and shall record the result thereof in a bound paged book kept for the purpose, and shall sign the same and date his signature."
+    }
+  ]
+}
+{
+  "title": "Velocity of Air Current",
+  "content": [
+    {
+      "section": "Measurement of Air Velocity",
+      "text": "The velocity of air current measured in meters per minute at the place shown in column (2) shall be not less than that shown in column (3) for the different seams shown in column (1) of the Table given below:"
+    },
+    {
+      "section": "Table",
+      "table": {
+        "columns": ["Degree of Gassiness", "Place where Velocity of Air is to be Measured", "Velocity of Air (meters per minute)"],
+        "rows": [
+          ["First, Second, or Third Degree", "Immediate outbye ventilation connection from the face.", "30"],
+          ["First or Second Degree", "(i) 4.5 meters from any face whether working or discontinued on the intake side of the brattice or partition.", "30"],
+          ["First or Second Degree", "(ii) 7.5 meters outbye of the discharge end of an air pipe.", "15"],
+          ["First or Second Degree", "(iii) At the maximum span of a longwall face.", "60"],
+          ["Third Degree", "(i) 4.5 meters from any face whether working or discontinued on the intake side of the brattice or partition.", "45"],
+          ["Third Degree", "(ii) 7.5 meters outbye of the discharge end of an air pipe.", "25"],
+          ["Third Degree", "(iii) At the maximum span of a longwall face.", "75"]
+        ]
+      }
+    },
+    {
+      "section": "Exemptions",
+      "text": "Provided that if in the opinion of the Chief Inspector or the Regional Inspector the compliance with the above provision is not practicable or not necessary, he may, by an order in writing and subject to such conditions as may be specified therein, exempt partially or totally any mine from the provisions of this regulation."
+    }
+  ]
+}
+{
+  "title": "Auxiliary Fans",
+  "content": [
+    {
+      "section": "Installation and Operation Requirements",
+      "text": "Every auxiliary fan shall:"
+    },
+    {
+      "subsection": "(a)",
+      "text": "a) be installed, located, and operated in such a manner that:"
+    },
+    {
+      "subsubsection": "(i)",
+      "text": "i) a sufficient quantity of air shall, at all times, reach it so as to ensure that it does not recirculate air; and"
+    },
+    {
+      "subsubsection": "(ii)",
+      "text": "ii) there is no risk of air, which it circulates, being contaminated by any substantial quantity of inflammable or noxious gases or dust;"
+    },
+    {
+      "subsection": "(b)",
+      "text": "b) whether driven electrically or otherwise, be efficiently connected with earth so as to avoid the accumulation of an electrostatic charge; and"
+    },
+    {
+      "subsection": "(c)",
+      "text": "c) have an air-duct for conducting the air to or from the face or blind end, which shall be so maintained as to minimize any leakage of air and to ensure an adequate supply of air to within 3.0 meters of the face or blind end."
+    },
+    {
+      "section": "Authority for Fan Handling",
+      "text": "No auxiliary fan shall be started, stopped, removed, replaced, or in any way altered or interfered with, except by or on the authority of an official."
+    },
+    {
+      "section": "Safety Requirement for Entering Ventilation-Dependent Places",
+      "text": "No person shall enter or remain in any place which is dependent for its ventilation on an auxiliary fan unless such fan is operating efficiently. Provided that whenever the ventilation of any such place has been interrupted, whether by the stoppage of the fan or otherwise, no person shall so enter or remain therein, except for the purpose of restoring the ventilation unless the place has been examined by a competent person and declared safe."
+    },
+    {
+      "section": "Installation of Multiple Auxiliary Fans",
+      "text": "In every belowground working, conditions for the installation of two or more auxiliary fans in the same ventilating district or split shall be specified by the Chief Inspector in a general order."
+    }
+  ]
+}
+{
+  "title": "Precautions Against Fire in Ventilation Appliances",
+  "content": [
+    {
+      "section": "Installation of Surface Mechanical Ventilators",
+      "text": "Every mechanical ventilator on the surface shall be installed in a suitable fireproof housing."
+    },
+    {
+      "section": "Protection of Underground Fans",
+      "text": "In the case of every fan other than an auxiliary fan installed belowground, the coal or other carbonaceous material exposed in the sides, roof, and floor shall be covered with masonry or other fire-resistant sealant as protection against fire, for a distance of not less than 5 meters in every direction from the fan."
+    },
+    {
+      "section": "Fire-Resistant Construction Requirements",
+      "text": "The covering of every shaft sealed off or covered for ventilation purposes, every fan drift, duct, or casing, and every part of a mechanical ventilator or fan within such drift, duct, or casing, and every air-crossing and ventilation door shall be constructed of fire-proof material. Provided that this regulation shall not apply to the small lid of a shaft-covering operated by the rope cappel."
+    }
+  ]
+}
+{
+  "title": "Ventilation Plans Updating",
+  "content": [
+    {
+      "section": "Responsibility for Updating",
+      "text": "The manager shall ensure that as soon as any alteration is made in the ventilation of a mine involving the erection or removal of an air-crossing or stopping or the alteration in the position or installation of a ventilator or fan belowground, the erection, removal, alteration, or installation, as the case may be, is notified to the surveyor."
+    },
+    {
+      "section": "Surveyor's Role",
+      "text": "The surveyor shall forthwith make necessary alterations on the ventilation plan maintained under regulation 65."
+    }
+  ]
+}
+{
+  "title": "Obstructions, Interruptions, and Alterations",
+  "content": [
+    {
+      "section": "Prevention of Accumulation of Material and Debris",
+      "text": "No material or debris shall be allowed to accumulate in any level, drive, crosscut, roadway, or any other part of the workings belowground so as to impede the ventilation."
+    },
+    {
+      "section": "Fencing or Barricading of Inadequately Ventilated Areas",
+      "text": "Every roadway and working belowground which is not adequately ventilated shall be fenced or barricaded so as to effectively prevent persons from entering the same."
+    },
+    {
+      "section": "Responsibilities for Addressing Ventilation Issues",
+      "text": "If any person becomes aware of any obstruction in, interference with, or deficiency of ventilation in any mine or part thereof, he shall:"
+    },
+    {
+      "subsection": "(a)",
+      "text": "a) if it falls within his power to remedy such obstruction, interference, or deficiency, immediately take steps to do so; or"
+    },
+    {
+      "subsection": "(b)",
+      "text": "b) cease all work at that place and shall forthwith inform his superior official of such obstruction, interference, or deficiency."
+    },
+    {
+      "section": "Measures during Ventilation Interruption",
+      "text": "Whenever there is any interruption of ventilation by the stoppage of any mechanical ventilator, including an auxiliary fan installed belowground, the official in charge of the mine or part shall immediately take precautionary measures, including withdrawal of men if necessary, against dangers that may arise out of non-compliance with the provisions of regulation 153, to restore the ventilation in the mine or part thereof."
+    },
+    {
+      "section": "Authorization for Alteration of Ventilation System",
+      "text": "No person shall alter the general system of ventilation in any mine or part except with the written authority of the manager. Provided that in case of an emergency, an official of the mine may carry out such alteration as he may deem necessary for the safety of persons, but he shall as soon as possible inform his superior official and the manager about the same in writing."
+    }
+  ]
+}
+{
+  "title": "Precautions Against Gas During De-Watering and Re-Opening",
+  "content": [
+    {
+      "section": "De-Watering Precautions",
+      "text": "No disused mine or shaft shall be de-watered except under the constant supervision of a competent person. During such de-watering, approved safety lamps or torches shall be exclusively used, and there shall also be kept burning at every place where persons are at work, at least one approved flame safety lamp."
+    },
+    {
+      "section": "Re-Opening Inspection",
+      "text": "The first inspection of a mine or part which is re-opened after discontinuance of mining operations for a period exceeding seven days and of any part of a mine after being de-watered shall be made by a competent person with an approved flame safety lamp or other approved apparatus for determining the presence of inflammable or noxious gases and deficiency of oxygen. During such inspection, no additional light or lamp other than an approved electric torch or lamp shall be used."
+    },
+    {
+      "section": "Recording Inspection Results",
+      "text": "The result of every such inspection shall be recorded in a bound paged book kept for the purpose, and shall be signed and dated by the persons making the inspection and countersigned and dated by the manager."
+    }
+  ]
+}
+{
+  "title": "Precautions Against Inflammable and Noxious Gases",
+  "content": [
+    {
+      "section": "Detection Criteria for Inflammable Gas",
+      "text": "For the purpose of this regulation, inflammable gas shall be deemed to have been found or detected when it is indicated:"
+    },
+    {
+      "subsection": "(i)",
+      "text": "i) by a methane detector to be 0.1 per cent. or more in case of mine having degree one gassy seams;"
+    },
+    {
+      "subsection": "(ii)",
+      "text": "ii) by a methane detector to be 0.5 per cent. or more in case of mine having degree two seams;"
+    },
+    {
+      "subsection": "(iii)",
+      "text": "iii) by the lowered flame of a flame safety lamp or, where methane detectors are used, they indicate one and a quarter per cent. or more of inflammable gas in case of mine having degree three gassy seams."
+    },
+    {
+      "section": "Actions upon Detection of Inflammable Gas",
+      "text": "When any person detects the presence of inflammable gas, he shall not brush or waft it out, but shall immediately withdraw from the place and shall inform his superior official about the same."
+    },
+    {
+      "section": "Measures for Areas with Inflammable or Noxious Gas",
+      "text": "Where in any place in a mine, inflammable or noxious gas is detected:"
+    },
+    {
+      "subsection": "(a)",
+      "text": "a) all persons shall be withdrawn from the place;"
+    },
+    {
+      "subsection": "(b)",
+      "text": "b) the place shall be immediately fenced off so as to prevent persons inadvertently entering the same, and the competent person in charge shall, without delay, take steps to remove the gas by improving the ventilation."
+    },
+    {
+      "section": "Withdrawal during Gas Removal",
+      "text": "During the removal of such gas under sub-regulation (3), all persons, except those necessary for such removal, shall be withdrawn from the return side of the ventilating district in which the gas has been detected unless the quantity of gas is, in the opinion of the competent person, so small that such withdrawal is not necessary. Provided that where the danger arises from the presence of inflammable gas, no naked light shall be used in the ventilating district in which the gas is detected."
+    },
+    {
+      "section": "Re-Admittance After Gas Detection",
+      "text": "No person shall be re-admitted into the place where the gas was detected until a competent person has examined the place and has reported that the place is free from gas."
+    },
+    {
+      "section": "Examination Requirements and Record-Keeping",
+      "text": "Every examination referred to in sub-regulation (5) shall be made with a flame safety lamp or a suitable detector approved by the Chief Inspector and, in the case of noxious gas, also with suitable means of detecting carbon monoxide gas approved by the Chief Inspector. Particulars of every occurrence referred to in sub-regulation (2) and of every examination made under sub-regulation (5), together with a statement as to where and when the gas was found and when it was removed, and in case of inflammable gas, the percentage thereof shall be recorded in a bound paged book kept for the purpose; and every such entry shall be signed and dated by the competent person making the report and countersigned and dated by the manager."
+    }
+  ]
+}
+{
+  "title": "Inspection of Unused Working for Gas",
+  "content": [
+    {
+      "section": "Frequency of Inspection",
+      "text": "In any fiery seam or gassy seam of the second or third degree or where the Regional Inspector may require by an order in writing, all unused working which have not been sealed off, shall, once at least in every seven days be inspected by a competent person for the presence of inflammable or noxious gas."
+    },
+    {
+      "section": "Recording Inspection Results",
+      "text": "A report of every inspection referred to in sub-regulation (1) shall be recorded in a bound paged book kept for the purpose and shall be signed and dated by the person who made the inspection."
+    }
+  ]
+}
+{
+  "title": "Use of Safety Lamps in Belowground Mines",
+  "content": [
+    {
+      "section": "Mandatory Use of Approved Safety Lamps",
+      "text": "No lamp or light other than an approved safety lamp or torch or other installation permitted under the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010 shall be used or permitted to be used belowground in any mine:"
+    },
+    {
+      "section": "Exemptions by Chief Inspector",
+      "text": "Provided that the Chief Inspector may, by an order in writing and subject to such conditions as he may specify therein, exempt any mine or part thereof from the operation of this regulation on the ground that on account of its special character the use of safety lamps is not necessary therein."
+    }
+  ]
+}
+{
+  "title": "Determination of Percentage of Inflammable Gas and Environmental Conditions",
+  "content": [
+    {
+      "section": "Determination of Inflammable Gas Percentage",
+      "text": "Where electric energy is used in any ventilating district, determination shall be made of the percentage of inflammable gas present in the general body of air and the following provisions shall apply in respect of such determination, namely:"
+    },
+    {
+      "subsection": "(a)",
+      "text": "a) the determination shall be made by a competent person either by means of an apparatus of a type approved for the purpose by the Chief Inspector, or by analysis of samples of air:"
+    },
+    {
+      "note": "Provided that if determinations are made by the analysis of air, the samples shall be analysed within three days of the taking thereof:"
+    },
+    {
+      "note": "Provided further that no apparatus as aforesaid shall be used unless it has been calibrated by its manufacturer or other approved agency within such period of time as specified from time to time by the Chief Inspector;"
+    },
+    {
+      "subsection": "(b)",
+      "text": "b) the determination shall be made or samples of air taken at suitable points fixed by the manager, on the intake side of the first working place and on the return side of the last working place in the district:"
+    },
+    {
+      "note": "Provided that where the Regional Inspector is of the opinion that the location of any such point is unsuitable, he may, by an order in writing, require the manager to fix some other point or points in substitution thereof;"
+    },
+    {
+      "subsection": "(c)",
+      "text": "c) the determination shall be made or samples of air taken, as the case may be, once at least in every seven days, so however that –"
+    },
+    {
+      "note": "(i) if any determination shows the percentage of inflammable gas to exceed 0.8, determination shall be made or samples of air taken at intervals not exceeding twenty-four hours for so long as such content exceeds that percentage and for the seven next following days, unless the Regional Inspector otherwise permits by an order in writing and subject to such conditions as he may specify therein; and"
+    },
+    {
+      "note": "(ii) if the determination made during the thirty days immediately preceding any day have shown the percentage of inflammable gas to be below 0.6, it shall be sufficient to make such determination or take such samples, once in every thirty days for so long as such content does not exceed that percentage:"
+    },
+    {
+      "note": "Provided that when any alteration is made in the system of ventilation so as to substantially affect or likely to affect the ventilation of the mine, such determination shall be made within a period of twenty-four hours of such alteration;"
+    },
+    {
+      "subsection": "(d)",
+      "text": "d) particulars of every such determination under this regulation shall be recorded in a bound paged book kept for the purpose;"
+    },
+    {
+      "subsection": "(e)",
+      "text": "e) if any determination in any ventilating district shows the percentage of inflammable gas to exceed one and a quarter, the supply of electric energy shall be cut off immediately from all cables and apparatus in the district, and a written report thereof submitted to the Regional Inspector forthwith."
+    },
+    {
+      "section": "Determination of Environmental Conditions",
+      "text": "(2) If the Regional Inspector so requires by an order in writing in respect of any mine having workings belowground, determination shall, once at least in every thirty days, be made of temperature, humidity and such other environmental conditions at such points as the Regional Inspector may specify in the order."
+    }
+  ]
+}
+{
+  "title": "Installation of Monitoring Devices and Analysis of Mine Air Samples",
+  "content": [
+    {
+      "section": "Installation of Monitoring Devices",
+      "text": "(1) The Chief Inspector may, if he considers necessary for the safety of persons, require by an order in writing that in any mine or any class of mines belowground, approved environmental monitoring devices to continuously record information regarding environmental conditions, to be installed belowground within such time and subject to such conditions as he may specify therein."
+    },
+    {
+      "section": "Analysis of Mine Air Samples",
+      "text": "(2) The Chief Inspector may, if he considers necessary for the safety of persons, require by a general or special order in writing analysis of mine air samples by gas chromatography or other equivalent technique."
+    }
+  ]
+}
+{
+  "title": "General Precautions in Gassy Mines",
+  "content": [
+    {
+      "section": "Precautionary Measures",
+      "text": "(1) In every gassy mine, the precautionary measures as specified in sub-regulations (2) to (7) shall apply."
+    },
+    {
+      "section": "Working Distance Limitation",
+      "text": "(2) No working or gallery shall be extended to a distance of more than 3 meters from the nearest ventilation connection unless the current of air is coursed up to a point within 3 meters of the face by means of fire-resistant pipes, tubes, brattices, or other material."
+    },
+    {
+      "section": "Advance Gallery Limitation",
+      "text": "(3) No narrow main or advance gallery shall be driven more than three meters ahead of the widened gallery."
+    },
+    {
+      "section": "Stopping and Air-Crossing Requirements",
+      "text": "(4) Every stopping between the main intake and the main return airway shall be substantially built, and every air-crossing shall be so constructed and maintained as to withstand the force of an explosion."
+    },
+    {
+      "section": "Air Current Splitting",
+      "text": "(5) The main air current shall be so split and coursed that an air current which ventilates a goaved out area, whether packed or unpacked, or any disused workings shall not, except with the prior permission in writing of the Regional Inspector and subject to such conditions as he may specify therein, ventilate any workings where coal is being extracted."
+    },
+    {
+      "section": "Major Alteration in Ventilation System",
+      "text": "(6) No major alteration shall be made in the system of ventilation except with the prior permission in writing of the Regional Inspector and subject to such conditions as he may specify therein:\n\nProvided that where the safety of the mine or of the persons employed therein is seriously threatened, the provisions of this sub-regulation shall be deemed to have been complied with, if information of such alteration is sent to the Regional Inspector forthwith."
+    },
+    {
+      "section": "Presence during Major Alteration",
+      "text": "(7) Except in an emergency, when a major alteration is made in the system of ventilation, only such persons as are engaged in making the alteration shall be present belowground."
+    }
+  ]
+}
+{
+  "title": "Contrabands",
+  "content": [
+    {
+      "section": "Possession Prohibition",
+      "text": "(1) No person shall have in his possession belowground in a mine any cigar, cigarette, biri, or other smoking apparatus, or any match or mobile phone or other apparatus of any kind capable of producing a light, flame or spark:\n\nProvided that nothing in this sub-regulation shall be deemed to prohibit the use belowground of any apparatus for the purpose of shot firing or of relighting safety lamps, of a type approved by the Chief Inspector."
+    },
+    {
+      "section": "Search Procedure",
+      "text": "(2) For the purpose of ascertaining whether any person proceeding belowground into a mine has in his possession any article referred to in sub-regulation (1), a competent person other than the banksman, if any, shall be appointed to search every such person immediately before he enters the mine."
+    },
+    {
+      "section": "Duties of Competent Person",
+      "text": "(3) The competent person referred to in sub-regulation (2) shall be on duty throughout the shift, and no duties other than those under this regulation and sub-regulation (2) of regulation 179 shall be entrusted to him."
+    },
+    {
+      "section": "Thorough Search",
+      "text": "(4) The competent person so appointed shall make a thorough search for the articles referred to in sub-regulation (1) and in particular shall-\n(a) search or turn out all pockets;\n(b) pass his hand over all clothing; and\n(c) examine any article in possession of the person searched.\n\nSuch search shall be made every time a person proceeds belowground notwithstanding that he has been so searched previously also."
+    },
+    {
+      "section": "Detention and Reporting",
+      "text": "(5) If the competent person suspects that the person searched is concealing any article as aforesaid, he shall detain him, and as soon as possible refer the matter to the manager or assistant manager."
+    },
+    {
+      "section": "Entry Restriction",
+      "text": "(6) No person being suspected under sub-regulation (5) shall be allowed to enter the mine until the manager or other superior official is satisfied that the person has no such article in his possession."
+    },
+    {
+      "section": "Offense and Consequences",
+      "text": "(7) Any person who refused to allow himself to be so searched or who on being searched is found to have in his possession any of the article aforesaid, shall be guilty of an offence against this regulation."
+    }
+  ]
+}
+{
+  "title": "Underground Relighting Stations",
+  "content": [
+    {
+      "section": "Establishment of Stations",
+      "text": "(1) In every mine, lamp stations for relighting safety lamps may be fixed by the manager at suitable places belowground and every such station shall be legibly marked RELIGHTING STATION, which shall be situated in a main intake airway, and shall be placed in charge of a competent person."
+    },
+    {
+      "section": "Competency Requirement",
+      "text": "(2) No person shall be appointed as a competent person under this regulation unless he holds a Gas Testing Certificate."
+    }
+  ]
+}
+{
+  "title": "Whitewashing",
+  "content": [
+    {
+      "section": "Areas to Be Whitewashed",
+      "text": "The roof and sides of the following places belowground in a mine shall be kept effectively whitewashed, namely:-"
+    },
+    {
+      "section": "Specific Areas",
+      "list": [
+        "(a) every shaft inset and shaft bottom or siding and every bye-pass which is in regular use;",
+        "(b) the top and bottom of every haulage plane, every regular stopping place, siding, landing, pass-bye and junction, except within 100 meters of the face;",
+        "(c) every travelling roadway;",
+        "(d) every room and place containing any engine, motor or other apparatus; and",
+        "(e) every first aid station belowground."
+      ]
+    }
+  ]
+}
+{
+  "title": "General Lighting",
+  "content": [
+    {
+      "section": "Adequate General Lighting",
+      "text": "Adequate general lighting arrangements shall be provided during working hours-"
+    },
+    {
+      "section": "On the Surface",
+      "list": [
+        "(a)(i) in every engine house;",
+        "(a)(ii) in the vicinity of every working shaft;",
+        "(a)(iii) at every opencast working;",
+        "(a)(iv) at every shunting or marshalling yard;",
+        "(a)(v) at every place where persons have to work; and"
+      ]
+    },
+    {
+      "section": "Belowground",
+      "list": [
+        "(b)(i) at every shaft inset and shaft bottom or landing or siding which is in regular use;",
+        "(b)(ii) in every travelling roadway normally used by fifty or more persons during any shift:",
+        "(b)(ii) Provided that the provisions of this sub-clause shall be deemed to have been complied with where electric lamps or lights are provided to every person at work;",
+        "(b)(iii) at the top and bottom of every self-acting incline in regular use;",
+        "(b)(iv) at every place on a haulage roadway, at which tubs are regularly coupled or uncoupled or attached to or detached from a haulage rope;",
+        "(b)(v) at every place at which tubs are regularly filled mechanically;",
+        "(b)(vi) at every room and place containing any engine, motor or other apparatus;",
+        "(b)(vii) at every place where any pillar is under extraction; and",
+        "(b)(viii) at every first aid station belowground:",
+        "(b)(viii) Provided that the lighting fixtures installed in a gassy seam of the second or third degree and in the blind ends of a gassy seam of the first degree which are not ventilated by a mechanical ventilator shall comply with the provisions of the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010."
+      ]
+    },
+    {
+      "section": "Lighting Arrangement",
+      "text": "The lighting provided in a mine shall, as far as possible, be so arranged as to prevent glare or eye strain."
+    },
+    {
+      "section": "Electric Energy",
+      "text": "Where electric energy is available at the mine, the lighting arrangement made under sub-regulation (1) shall be by electrical means."
+    },
+    {
+      "section": "Additional Lighting",
+      "list": [
+        "(4)(i) belowground, in every shaft inset and shaft bottom or landing in regular use and in every engine room;",
+        "(4)(ii) on the surface, after dark, at the top of every working shaft and in every engine room; and",
+        "(4)(iii) in travelling roadways and escape routes."
+      ]
+    },
+    {
+      "section": "Protection from Damage",
+      "text": "Every electrical lamp-fitting shall be so constructed as to protect it from accidental damage and adequate precaution shall be taken to prevent lamps being damaged from shot-firing."
+    },
+    {
+      "section": "Path Finder or Indicator",
+      "text": "Fluorescent or luminescent path finder or indicator shall be provided all along the travelling roadway and in the escape route in the mine."
+    }
+  ]
+}
+{
+  "title": "Electric Lighting in Gassy Mines",
+  "content": [
+    {
+      "section": "Use of Electric Lighting",
+      "list": [
+        "(1)(a) on any roadway or place ventilated by intake air; and",
+        "(1)(b) on any other roadway or place not within 270 meters of the nearest face."
+      ]
+    },
+    {
+      "section": "Type of Electrical Lighting Apparatus",
+      "text": "In every mine or part thereof to which regulation 168 applies, every electrical lighting apparatus shall be of a type approved by the Chief Inspector:",
+      "proviso": "Provided that electric lighting from a source of electric power enclosed in the lighting unit, electric lights which are fittings or accessories to machinery or electrical plant including signalling apparatus, and any other means of lighting not specifically mentioned in the regulation, may be used in the mine if so permitted by the Chief Inspector by an order in writing and subject to such conditions as he may specify therein."
+    }
+  ]
+}
+{
+  "title": "Carrying Lights Belowground",
+  "content": [
+    {
+      "section": "Provision of Lights",
+      "text": "The owner, agent, or manager shall provide every person employed belowground with a light or lamp adequate to enable him to perform his duties in a proper and thorough manner, and no such person shall proceed or remain belowground without such light or lamp.",
+      "proviso": "Provided that on his return to the surface, every such person shall, unless otherwise directed by the manager by a general or special order in writing, immediately return his lamp to the lamp room."
+    },
+    {
+      "section": "Adequacy of Safety Lamps",
+      "text": "The number of safety lamps at every mine shall be adequate to permit thorough cleaning and checking before they are issued, and in case of any doubt as to the sufficiency or otherwise of the safety lamps provided at a mine, it shall be referred to the Chief Inspector for decision."
+    }
+  ]
+}
+{
+  "title": "Standard of Lighting",
+  "content": [
+    {
+      "section": "Doubt About Adequate Lighting",
+      "text": "If any doubt arises as to whether any lamp or light is of adequate lighting performance or not, it shall be referred to the Chief Inspector for decision."
+    },
+    {
+      "section": "Specifications by Chief Inspector",
+      "text": "The Chief Inspector may, from time to time, by a general or special order, specify:",
+      "subsections": [
+        {
+          "subsection": "(a)",
+          "text": "the type of lamp to be provided to specified categories of persons employed in a mine; or"
+        },
+        {
+          "subsection": "(b)",
+          "text": "the standard of lighting to be provided in specified areas or places in a mine."
+        }
+      ]
+    }
+  ]
+}
+{
+  "title": "Maintenance and Examination of Safety Lamps",
+  "content": [
+    {
+      "section": "Proper Maintenance of Safety Lamps",
+      "text": "For ensuring proper maintenance of safety lamps in use in the mines, the provisions of sub-regulations (2) to (7) shall apply."
+    },
+    {
+      "section": "Cleaning, Examination, and Locking",
+      "text": "A competent person appointed for the purpose shall clean, trim, examine and lock securely all such lamps before they are issued for use, and no such lamp shall be issued for use unless it is in safe working order and securely locked."
+    },
+    {
+      "section": "Examination Before Use Belowground",
+      "text": "A competent person appointed for the purpose shall examine every safety lamp at the surface immediately before it is taken belowground for use and shall assure himself, as far as practicable from external observation that such lamp is in safe working order and securely locked:",
+      "subsections": [
+        {
+          "subsection": "Provided that",
+          "text": "the person so appointed shall not perform any other duties, other than those prescribed under sub-regulations (2) and (3) of regulation 172."
+        }
+      ]
+    },
+    {
+      "section": "Examination After Use",
+      "text": "A competent person appointed for the purpose shall examine every safety lamp on its being returned after use."
+    },
+    {
+      "section": "Recording Damages or Misuse",
+      "text": "If on an examination made under sub-regulation (4), any lamp is found to be damaged or misused, he shall record the nature of the damage or misuse in a bound paged book kept for the purpose and every such entry shall be countersigned and dated by the manager."
+    },
+    {
+      "section": "Thorough Weekly Examination",
+      "text": "The manager, assistant manager, or a competent person appointed for the purpose shall, once at least in every seven days, examine thoroughly every safety lamp in use, and shall record the results of examination of every such lamp in a bound paged book kept for the purpose."
+    },
+    {
+      "section": "Qualifications of Competent Person",
+      "text": "No person shall be appointed as a competent person under this regulation unless he holds a Manager’s, Overman’s or Gas testing Certificate:",
+      "subsections": [
+        {
+          "subsection": "Provided that, after coming into force of these regulations,",
+          "text": "a holder of Lamp Checker’s Certificate granted under regulation 12 of the Coal Mines Regulations, 1957, shall also be deemed to be a competent person under this regulation."
+        }
+      ]
+    }
+  ]
+}
+{
+  "title": "Use of Safety Lamps",
+  "content": [
+    {
+      "section": "Numbering of Safety Lamps",
+      "text": "Every safety lamp shall be numbered and so long as the lamp is in use the number thereof shall be maintained in a legible condition."
+    },
+    {
+      "section": "Record Keeping",
+      "text": "A competent person appointed for the purpose shall maintain a correct record of the lamps issued from and returned to the lamp-room, and in the record so maintained, the number of the lamp issued to any person shall be entered against his name."
+    },
+    {
+      "section": "Change of Lamps",
+      "text": "If any person returns to the lamp-room a lamp other than the one issued to him, he shall explain the cause and circumstances of the change."
+    },
+    {
+      "section": "Authorization for Lamp Issuance",
+      "text": "No unauthorised person shall either himself take or give out any safety lamp from the lamp-room."
+    },
+    {
+      "section": "Inspection and Reporting of Defects",
+      "text": "Every person who receives a lamp shall satisfy himself that it is complete and in good order and should he find any defect therein, he shall immediately return it to the lamp-room. Should any person find that the safety lamp in his possession has become defective, he shall at once carefully extinguish the flame, if any, and report the fact to his superior official."
+    },
+    {
+      "section": "Prohibited Actions",
+      "text": "No person shall willfully damage or improperly use, or unlock or open, or attempt to unlock or open any safety lamp."
+    }
+  ]
+}
+{
+  "title": "Maintenance and Repairs of Safety Lamps",
+  "content": [
+    {
+      "section": "Proper Assembly and Maintenance",
+      "text": "Every safety lamp shall be properly assembled and maintained in good order and if any such lamp is found to be defective or damaged, it shall not be used or issued for use until the defect or damage has been remedied."
+    },
+    {
+      "section": "Wire Replacement",
+      "text": "If the wires of any gauge of a flame safety lamp are broken or burnt away, the gauge shall not be reconditioned for further use."
+    },
+    {
+      "section": "Handling Damaged Parts",
+      "text": "Damaged and defective gauges, glasses, or other parts of a safety lamp shall not be kept or stored in the safety lamp-room."
+    },
+    {
+      "section": "Replacement of Glass and Parts",
+      "text": "No glass of a safety lamp and no bulb of an electric safety lamp shall be replaced except by a glass or bulb of such type as the Chief Inspector may, from time to time specify by a general or special order, and no other part of a safety lamp, other than a wick or battery, as the case may be, shall be replaced except by a part manufactured by the manufacturers of the lamp to approved specifications. Provided that in the case of an imported safety lamp, a part manufactured indigenously may be used if it is of such design and make as is approved by the Chief Inspector."
+    },
+    {
+      "section": "Use of Repaired Parts",
+      "text": "No repaired part shall be used in a safety lamp."
+    },
+    {
+      "section": "Use of Approved Oil",
+      "text": "In every flame safety lamp kept for the purpose of inspection or of testing for or detecting the presence of inflammable gas, no oil other than an oil of a type approved by the Chief Inspector shall be used."
+    },
+    {
+      "section": "Electric Safety Lamp Requirements",
+      "text": "No electric safety lamp shall be issued for use unless the covers of the battery and of the headpiece are properly assembled, securely locked and sealed, and the battery is properly charged. No electric safety lamp shall be hung or held by the cable."
+    }
+  ]
+}
+{
+  "title": "Precautions in Safety Lamp Rooms",
+  "content": [
+    {
+      "section": "Unauthorized Entry",
+      "text": "No unauthorized person shall enter the safety lamp room."
+    },
+    {
+      "section": "No Smoking",
+      "text": "No person shall smoke in the safety lamp-room."
+    },
+    {
+      "section": "Use of Highly Volatile Spirit",
+      "text": "Where petrol, benzol, or any other highly volatile spirit is used in safety lamps, the following precautions shall be observed:",
+      "subsections": [
+        {
+          "subsection": "Lamp Maintenance",
+          "text": "(a) Lamps shall be cleaned, refitted, and refilled in a separate room."
+        },
+        {
+          "subsection": "Quantity Limit",
+          "text": "(b) Only such quantity of volatile spirit as is required for one working day shall be kept in any such room."
+        },
+        {
+          "subsection": "Separate Table for Relighters",
+          "text": "(c) Internal relighters shall not be taken out of lamps and cleaned, repaired, or refitted on the same table where lamps are cleaned, refitted, or refilled."
+        },
+        {
+          "subsection": "Fire Extinguishers",
+          "text": "(d) An adequate number of suitable fire extinguishers shall be provided and kept ready for use in every such room."
+        }
+      ]
+    }
+  ]
+}
+{
+  "title": "Type of explosives to be used in mines",
+  "context": "(1) No explosive shall be used in a mine except that which is provided by the owner, agent, or manager which shall be of good quality and in good condition.\n\n(2) No explosive, other than a fuse or a detonator shall be issued for use in a mine, or taken into or used in any part of a mine unless it is in the form of a cartridge:\n\n   Provided that in the case of an opencast mine, site-mixed slurry, or emulsion explosives or ammonium nitrate fuel oil may be issued for use or taken into or used in non-cartridge form.\n\n(3) Explosive cartridges shall be used in the mine only in the form in which they are received.\n\n(4) No liquid oxygen explosives shall be used in any mine."
+}
+{
+  "title": "Storage of explosives",
+  "context": "(1) No owner, agent, or manager shall store, or knowingly allow any other person to store, within the premises of the mine any explosive otherwise than in accordance with the provisions of the rules made under the Explosives Act, 1884 (4 of 1884).\n\n(2) Explosives shall not be taken into or kept in any building except a magazine duly approved by the Licensing Authority under the provisions of the Explosives Act, 1884 (4 of 1884).\n\n(3) Explosives shall not be stored belowground in a mine except with the approval in writing of the Chief Inspector and subject to such conditions as he may specify therein, and such storage shall be done only in a magazine or magazines duly licensed in accordance with the provisions of rules made under the Explosives Act, 1884 (4 of 1884).\n\n(4) Every license granted by the Licensing Authority under the provisions of the Explosives Act, 1884 (4 of 1884) for the storage of explosives, or a true copy thereof, shall be kept at the office of the mine."
+}
+{
+  "title": "Magazines, stores, and premises to store explosives",
+  "context": "(1) Every magazine, store, or premises where explosives are stored shall be in charge of a competent person who shall be responsible for the proper receipt, storage, and issue of explosives.\n\n(2) Explosives shall not be issued from the magazine unless they are required for immediate use:\n\n   Provided that if any explosive is returned to the magazine or store or premises, they shall be re-issued before fresh stock is used.\n\n(3) Explosives shall be issued only to competent persons upon written requisition signed by the shot-firer or by an official authorized for the purpose, and only against their signature or thumb impression, which shall be preserved by the person in charge of the magazine or store or premises.\n\n(4) The person in charge of the magazine or store or premises shall maintain, in a bound paged book kept for the purpose, a clear and accurate record of explosives issued to each competent person and a similar record of explosives returned to the magazine or store or premises."
+}
+{
+  "title": "Cases and containers for carrying explosives",
+  "context": "(1) No explosive shall be issued from the magazine or taken into any mine except in a case or container of substantial construction which is securely locked:\n\n   Provided that cases or containers made of iron or steel shall be heavily galvanized and no case or container provided for carrying detonators shall be constructed of metal or other conductive material.\n\n(2) No detonator shall be kept in a case or container which contains other explosives, materials, or tools, and two or more types of detonators shall not be kept in the same case or container:\n\n   Provided that nothing in this sub-regulation shall restrict the conveyance of primer cartridges fitted with detonators in the same case or container for use in a wet working or in a sinking shaft.\n\n(3) No detonator shall be taken out from a case or container unless it is required for immediate use.\n\n(4) Except as otherwise provided for in regulation 188, no case or container shall contain more than five kilograms of explosives, and no person shall have in his possession at one time in any place more than one such case or container:\n\n   Provided that the Chief Inspector may, by an order in writing and subject to such conditions as he may specify therein, permit the carrying of a larger quantity of explosives in a single case or container, or the use, at one time in one place, of more than one such case or container.\n\n(5) Every case or container shall be numbered, and as far as practicable, the case or container shall be issued to the same shot-firer or competent person, as the case may be, every day.\n\n(6) The key of every case or container shall be retained by the shot-firer in his own possession throughout his shift."
+}
+{
+  "title": "Transport of explosives",
+  "context": "(1) While explosives are being carried on a ladder, every case or container shall be securely fastened to the person carrying it.\n\n(2) No person other than a shot-firer shall carry any priming cartridge into a shaft which is in the course of being sunk, and no such cartridge shall be so carried except in a thick felt bag or other container sufficient to protect it from shock."
+}
+{
+  "title": "Transport of explosives in bulk",
+  "context": "The conditions and other details for transport of explosives in bulk shall be specified by the Chief Inspector in a general order."
+}
+{
+  "title": "Reserve Station",
+  "context": "(1) No case or container containing explosives shall be left or kept in a mine except in a place appointed by the manager for the purpose and legibly marked “RESERVE STATION”.\n\n(2) The conditions for site selection and other details for establishing a reserve station in a mine shall be specified by the Chief Inspector in a general order."
+}
+{
+  "title": "Shot-firers",
+  "context": "(1) The preparation of charges and the charging and stemming of holes shall be carried out by or under the personal supervision of a competent person, in these regulations referred to as a “shot-firer,” who shall fire the shots himself.\n\n(2) No person shall be appointed to be a shot-firer unless he holds:\n\n   (a) a Manager’s Certificate or Overman’s Certificate or a Sirdar’s Certificate together with a gas-testing certificate in the case of belowground mines; and\n\n   (b) a Manager’s Certificate, Overman’s Certificate or a Sirdar’s Certificate in the case of open-cast working:\n\n   Provided that, after the coming into force of these regulations, a shot-firer holding a Shot-firer’s Certificate granted under regulation 12 of the Coal Mines Regulations, 1957, shall also be deemed to be a shot-firer under this regulation.\n\n(3) The competent person appointed as a shot-firer shall not be given any other duty, nor shall anyone performing any other duty be allowed to perform shot firing.\n\n(4) No person whose wages depend on the amount of coal, rock, or debris obtained by firing shots shall be appointed to perform the duties of a shot-firer.\n\n(5) The manager shall fix, from time to time, the maximum number of shots that a shot-firer may fire in any one shift, and such number shall be based on:\n\n   (a) the time normally required to prepare and fire a shot in accordance with the provisions of these regulations;\n\n   (b) the time required for that shot-firer to move between places where shots are fired;\n\n   (c) the assistance, if any, available to him in the performance of his said duties; and shall not in any case exceed:\n\n      (i) in the case of a gassy seam of the second or third degree or a fiery seam, forty if a single-shot exploder is used and eighty if a multi-shot exploder is used;\n\n      (ii) in the case of other seams, fifty if a single-shot exploder is used and one hundred if a multi-shot exploder is used;\n\n      (iii) in the case of opencast mines, sixty if a single-shot exploder is used or if blasting is done with ordinary detonators and one hundred and twenty if a multi-shot exploder is used:\n\n   Provided that where special conditions exist, the Chief Inspector may by an order in writing and subject to such conditions as he may specify therein, permit the number of shots to be fixed in variance with the aforesaid provisions.\n\n(6) The number of detonators issued to, and in the possession of, a shot-firer during his shift shall not exceed the maximum number of shots that he is permitted to fire under sub-regulation (5)."
+}
+{
+  "title": "Shot-firing tools",
+  "context": "(1) Every shot-firer on duty shall be provided with:\n\n   (a) a suitable shot-firing apparatus;\n   (b) a suitable shot-firing cable;\n   (c) a suitable electric lamp or torch, a whistle, and a stop watch;\n   (d) a tool, made entirely of wood, suitable for charging and stemming shot-holes;\n   (e) a scraper made of brass or wood suitable for cleaning out shot-holes;\n   (f) a pair of suitable crimpers for crimping detonators;\n   (g) where detonators are used, a pricker made of wood or of a non-ferrous metal for priming cartridges;\n   (h) a suitable tool for detecting cracks;\n   (i) a methanometer for the detection of inflammable gas in case of solid blasting;\n   (j) a circuit tester for checking shot-firing circuits.\n\n(2) No tool or appliance other than that provided under sub-regulation (1) shall be used by a shot-firer."
+}
+{
+  "title": "Drilling, charging, stemming, and firing of shot-holes",
+  "context": "(1) No drill shall be used for drilling a shot-hole unless it allows a clearance of at least 0.3 centimeters over the diameter of the cartridge of explosives which it is intended to use.\n\n(2) No shot-hole shall be charged before it is thoroughly cleaned.\n\n(3) Before any shot-hole is charged, the direction of the hole shall, where practicable, be distinctly marked on the roof or other convenient place.\n\n(4) No detonator shall be inserted into a priming cartridge until immediately before it is to be used; however, in the case of wet workings, priming cartridges may be prepared at the nearest convenient dry place, and such primed cartridges shall be carried to the working place in a securely closed case or container.\n\n(5) Detonators once inserted into a priming cartridge shall not be taken out.\n\n(6) In belowground workings, the explosive used in any shot-hole shall be of the same type.\n\n(7) In opencast mines, to use two types of explosives in any shot-hole, the manager shall frame and enforce standing orders for the safe use of explosives, and a copy of the same shall be submitted to the Regional Inspector.\n\n(8) The shot-firer shall, to the best of his judgment, ensure that no shot-hole is over-charged or under-charged, having regard to the task to be performed.\n\n(9) Shots shall be fired electrically or by any other means or instruments or apparatus as approved by the Chief Inspector.\n\n(10) Every shot-hole shall be stemmed with sufficient and suitable non-inflammable stemming so as to prevent the shot from blowing out.\n\n(11) Only sand loosely filled in, or soft clay lightly pressed home, or a compact but not hard mixture of sand and clay or water shall be used as stemming, and in no case shall coal dust be used for the purpose of stemming.\n\n(12) In charging or stemming a shot-hole, no metallic tool, scraper, or rod shall be used, and no explosive shall be forcibly pressed into a hole of insufficient size.\n\n(13) No shot shall be fired except in a properly drilled, charged, and stemmed shot-hole.\n\n(14) All surplus explosives shall be removed from the vicinity of a shot hole before connecting the shot firing cable to the shot holes.\n\n(15) As far as practicable, a shot shall be fired by the same shot-firer who charged it.\n\n(16) No shot-hole shall be charged except those which are to be fired in that round, and all shot-holes which have been charged shall be fired in one round.\n\n(17) Where a large number of shots have to be fired, shot-firing shall, as far as practicable, be carried out between shifts.\n\n(18) No person shall remove any stemming, or pull out any detonator lead, or remove any explosive from a shot-hole either before firing or after a misfire, or bore out a hole that has once been charged, or deepen or tamper with empty holes or sockets."
+}
+{
+  "title": "Use of ammonium nitrate fuel oil",
+  "context": "Conditions for the use of ammonium nitrate fuel oil in a mine shall be specified by the Chief Inspector in a general order."
+}
+{
+  "title": "Deep-hole blasting",
+  "context": "Conditions for the conduct of deep hole blasting in a mine shall be specified by the Chief Inspector in a general order."
+}
+{
+  "title": "Electric shot-firing",
+  "context": "(1) No shot shall be fired except by means of a suitable shot-firing apparatus of a type approved by the Chief Inspector, and the number of shots fired at any one time by the apparatus shall not exceed the number for which it is designed.\n\n(2) Every electrical shot-firing apparatus shall be so constructed and used that –\n\n   (a) it can only be operated by a removable handle or plug;\n   (b) the handle or plug shall not be placed in position until a shot is about to be fired and shall be removed as soon as a shot has been fired;\n   (c) the firing circuit is made and broken either automatically or by means of a push-button switch.\n\n(3) No shot-firing apparatus shall be used which is defective, and every apparatus shall, once at least in every three months, be tested by a competent person to ascertain whether it is in safe working order.\n\n(4) If the apparatus fails to fire all the shots in a properly connected circuit, the shot-firer shall return the apparatus to the manager or assistant manager as soon as possible, and it shall not be used again unless it has been tested on the surface and found to be in safe working order.\n\n(5) The result of every test made under sub-regulations (3) and (4) shall be recorded in a bound paged book kept for the purpose and shall be signed and dated by the competent person making the test.\n\n(6) No current from a signaling, lighting, or power circuit shall be used for firing shots.\n\n(7) The shot-firer shall-\n\n   (a) retain the key of the firing apparatus in his possession throughout his shift;\n   (b) use a well-insulated cable of sufficient length to permit him to take proper shelter, and in the case of belowground working, sufficient to take two right-angle turns of a pillar, and in no case, shall this cable be less than 50 meters in length;\n   (c) before coupling the cable to the firing apparatus, couple up the cable himself to the detonator leads;\n   (d) take care to prevent the cable from coming into contact with any power or lighting cable or other electrical apparatus;\n   (e) take adequate precautions to protect electrical conductors and apparatus from injury;\n   (f) himself couple the cable to the firing apparatus, and before doing so, see that all persons in the vicinity have taken proper shelter as provided under regulation 196;\n   (g) after firing the shots and before entering the place of firing, disconnect the cable from the firing apparatus.\n\n(8) Where more than one shot is to be fired at the same time,-\n\n   (a) care shall be taken that all connections are properly made;\n   (b) all shots, if fired belowground, shall be connected in series;\n   (c) the circuit shall be tested, either for electrical resistance or for continuity, before connecting it to the firing apparatus, which shall be made with an apparatus specifically designed for the purpose and only after all persons in the vicinity have taken proper shelter as provided under regulation 196;\n   (d) the cable to the shot-firing apparatus shall be connected last;\n   (e) detonators of the same electrical resistance shall only be used."
+}
+{
+  "title": "Taking shelter before firing shots",
+  "context": "(1) The shot-firer shall, before a shot is charged, stemmed, or fired, see that all persons other than his assistants, if any, in the vicinity, have taken proper shelter, and he shall also take suitable steps to prevent any person approaching the shot and shall himself take adequate shelter, along with his assistants, if any, before firing the shots.\n\n(2) In the case of an opencast working, the shot-firer shall not charge or fire a shot-\n\n   (a) unless he has taken the precautions laid down in sub-regulation (1);\n   (b) unless sufficient warning, by efficient signals or other means approved by the manager, is given over the entire area falling within a radius of 500 meters from the place of firing (hereinafter referred to as the danger zone) and also he has ensured that all persons within such an area have taken proper shelter;\n   (c) where any part of a public road or railway lies within the danger zone, unless two persons are posted, one each in either direction at the two extreme points of such road or railway which fall within the danger zone who have, by an efficient system of telephonic communication or hooter or loudspeakers or other means intimated clearance of traffic to the shot-firer and have also warned the passersby and whenever possible the vehicle also, if any, which have passed by such road or railway.\n\n(3) In the case of an opencast working, where any permanent building or structure of permanent nature not belonging to the owner lies within the danger zone, the aggregate maximum charge per delay and per round shall not exceed the amount fixed by the Chief Inspector, by permission in writing granted on the basis of a scientific study, and subject to such other conditions as he may specify therein.\n\n(4) Notwithstanding anything contained in sub-regulation (3), the Chief Inspector may, by an order in writing and subject to such conditions as he may specify, exempt any mine or part thereof from the operation of the provisions of sub-regulation (3), on the ground that the observance of its provisions is not necessary or reasonably practicable on account of the special conditions existing thereat.\n\n(5) Where the workings, either above or belowground, offer insufficient protection against flying fragments or missiles, adequate shelters or other protection shall be provided.\n\n(6) When two working places belowground have approached within 9 meters of each other, the shot-firer shall not fire any shot in any one of the said workings unless all persons have been withdrawn from the other working place and the same has been so fenced off as to prevent persons inadvertently coming in direct line of the shot."
+}
+{
+  "title": "Precautions against dry coal dust",
+  "context": "No shots shall be fired at any place belowground unless the place itself and all accessible places, including roof and sides, within a distance of 18 meters have been treated in the manner specified in clause (b) of sub-regulation (3) of regulation 144 unless such places are naturally wet as specified in the said regulation."
+}
+{
+  "title": "Conditions requiring use of permitted explosives",
+  "context": "(1) Notwithstanding anything contained in these regulations, no shots shall be charged or fired in the belowground working if the explosive used is not a permitted explosive, except in–\n\n   (a) a stone-drift, if it does not contain dry coal dust; or\n   (b) a shaft which is in the course of being sunk.\n\n(2) In a gassy seam of the second or third degree, no explosive other than the permitted sheathed explosives or other explosives equally safe or any device or apparatus for breaking coal approved by the Chief Inspector shall be used, while in a gassy seam of the first degree, in addition to the above, permitted explosives may also be used:\n\n   Provided that the Chief Inspector may by an order in writing and subject to such conditions as he may specify therein, permit, in any gassy seam of the first degree, the use of any explosives other than the permitted explosives.\n\n(3) Notwithstanding anything contained in sub-regulation (1), if blasting is done in any stone drift or sinking shaft within five meters of any coal seam or in coal measure drifts or staple shaft from one seam to another only permitted explosives of such types as may be required by the Chief Inspector shall be used:\n\n   Provided that in case of special difficulties, the Chief Inspector may exempt any stone drift or sinking shaft from the provisions of this sub-regulation subject to such conditions as he may specify therein."
+}
+
+{
+  "title": "Precautions in the use of permitted explosives",
+  "context": "(1) No detonator shall be used, unless it is of a type approved by the Chief Inspector.\n\n(2) Where more than one shot is charged for firing, the shots shall be fired simultaneously.\n\n(3) The aggregate charge in any shot to be fired in coal shall not exceed such permissible maximum charge, as the Chief Inspector may, by a general or special order, specify for the kind of permitted explosives used."
+}
+
+{
+  "title": "Approved shot-firing apparatus",
+  "context": "No shot shall be fired in a mine except by means of a shot-firing apparatus of a type approved by the Chief Inspector and subject to such conditions as he may, from time to time, specify by a general or special order:\n\n   Provided that where special conditions exist, the Chief Inspector may, by an order in writing and subject to such conditions as he may specify therein, permit the use of any other shot-firing apparatus."
+}
+{
+  "title": "Additional precautions in belowground mines",
+  "context": "(1) If in a ventilating district, presence of inflammable gas is detected in any place, no shot-hole shall be charged, stemmed or fired in that place or in any other place situated on its return side till such place has been cleared of gas and declared safe.\n\n(2) Immediately before charging a shot-hole or a round of shot-holes, and again before firing the shots the shot-firer shall carefully test for inflammable gas at all places within a radius of eighteen meters of the place of firing.\n\n(3) No shot-hole shall be charged if any break is found therein, or if inflammable gas is found issuing therefrom.\n\n(4) If after charging a shot-hole, inflammable gas is found in any place within the radius specified in sub-regulation (2), no shot shall be fired until the place has been cleared of gas and declared safe.\n\n(5) No delay-action detonator shall be used, except with the previous permission in writing of the Chief Inspector and subject to such conditions as he may specify therein."
+}
+
+{
+  "title": "Blasting in fire areas in opencast mines",
+  "context": "Conditions for conduct of blasting in fire areas in opencast mines shall be specified by the Chief Inspector in a general order."
+}
+
+{
+  "title": "Inspections after shot-firing",
+  "context": "(1) After a shot has been fired, the shot-firer shall not enter or allow any other person to enter the place until the atmosphere in the area is free from dust, smoke or fumes:\n\nProvided that the shot-firer shall before any other person enters the place, make a careful examination and with his assistants, if any, make the place safe.\n\n(2) No other person shall enter the place, and where guards have been posted they shall not be withdrawn, until the examination has been made and the place has been declared safe in all respects.\n\n(3) In the case of opencast working, after shots have been fired, an all-clear signal shall be given except in the case of a misfire."
+}
+
+{
+"title": "Misfires",
+"context": "(1) After firing the shots electrically, no person shall re-enter or be permitted to re-enter the place until five minutes after the source of electricity has been disconnected from the cable.\n\n(2) In the event of a misfire, the entrance or entrances to the working place shall be fenced so as to prevent inadvertent access and no work other than that of locating or relieving the misfire shall be done therein until the misfire has been located and relieved.\n\n(3) In opencast working, it shall be sufficient to mark the place of the misfire with a red flag.\n\n(4) In the event of a misfire, a second charge shall not be placed in the same hole.\n\n(5) If the misfire contains a detonator, the leads thereof shall be attached by a string to the shot-firing cable or some distinctive marker.\n\n(6) Except where the misfire is due to faulty cable or a faulty connection, and the shot is fired as soon as practicable after the defect is remedied, another shot shall be fired in a relieving hole which shall be so placed and drilled in such a direction that at no point shall it be nearer than thirty centimeters from the misfired hole:\n\nProvided that the new hole shall be bored in the presence of a shot-firer, preferably the same person who fired the shot.\n\n(7) After a relieving shot has been fired, a careful search for cartridges and detonators, if any, shall be made in the presence of the shot-firer, amongst the material brought down by the shot:\n\nProvided that in the case of working belowground if such cartridge or detonator is not recovered, the tubs into which the material is loaded shall be marked and further search made on the surface, and as far as possible, the search for the detonators and cartridges and the loading of any coal, stone or debris which may contain a detonator, shall be carried out without the aid of tools.\n\n(8) If a misfired hole is not dislodged by a relieving shot, the procedure laid down in sub-regulations (6) and (7) shall be repeated.\n\n(9) A misfired hole which cannot be dealt with in the manner so provided, shall be securely plugged with a wooden plug, and no person other than a shot-firer, an official or a person authorised for the purpose shall remove or attempt to remove any such plug.\n\n(10) When a misfired shot is not found, or when a misfired shot is not relieved, the shot-firer shall, before leaving the mine,-\n\n (a) give information of the failure to such shot-firer or official as may relieve or take over charge from him;\n (b) record, in a bound paged book kept for the purpose, a report on every misfire, whether suspected, and whether the shot-hole is relieved or not relieved;\n (c) sign the report and, to record in the said book the action taken for relieving the misfired shot-hole.\n\n(11) The shot-firer of the next shift shall locate and blast the misfired hole, but if after a thorough examination of the place, the place where the misfire was reported to have occurred he is satisfied that no misfire has actually occurred, he may permit drilling in the place.\n\n(12) In case of opencast mines, the owner, agent and manager of a mine shall draw up a plan which shall instruct all shot-firers the detailed procedure to be followed in the event of a misfired shot."
+}
+
+{
+"title": "Special precautions in stone drifts",
+"context": "(a) After shots have been fired, all loose rock shall be removed from the face, and the area lying within a distance of 1.2 meters from the face shall be thoroughly cleaned or washed down with water and carefully examined for presence of misfires or sockets, and without taking such precautions, the next round of shots shall not be fired; and\n\n(b) if any socket is found, it shall be dealt with in the manner provided in regulation 204."
+}
+{
+  "title": "Duties of shot-firer at the end of his shift",
+  "context": "(a) shall return all unused explosive to the magazine, or where a store or premises is provided under regulation 184, to such store or premises;\n\n(b) shall record, in a bound paged book kept for the purpose, the quantity of explosive taken, used, and returned, the places where shots were fired, and the number of shots fired by him, and misfires, if any, which shall be signed and dated by him."
+}
+
+{
+  "title": "General precautions regarding explosives",
+  "context": "(1) No person, whilst handling explosives or engaged or assisting in the preparation of charges or in the charging of holes, shall smoke or carry or use a mobile phone or light other than an enclosed light, electric torch, or lamp.\n\n(2) No person shall take any mobile phone or light other than an electric torch or an enclosed electric lamp into any explosive magazine or store or premises.\n\n(3) The owner, agent, or manager shall take adequate steps to prevent pilferage of explosives during its storage, transport, and use in the mine.\n\n(4) No person shall have explosives in his possession except as provided for in these regulations or hide or keep explosives in a dwelling house.\n\n(5) Any person finding any explosives in or about a mine shall deposit the same in the magazine or store or premises, and every such occurrence shall be reported to the manager in writing.\n\n(6) Shot-firers and their helpers shall-\n(a) not use battery-operated watches, mobile phones, synthetic clothes, and socks;\n(b) use only conductive types of foot-wears; and\n(c) in the case of leather shoes or boots, the sole shall also be of leather and without hobnails."
+}
+{
+  "title": "Use of certain machinery, equipment and devices in coal mines",
+  "context": "(1) No internal combustion engine or steam boiler shall be used belowground in a mine except with the previous permission in writing of the Chief Inspector and subject to such conditions as he may specify therein.\n\n(2) In every gassy seam of the second or third degree, only flame-proof electrical apparatus and equipment shall be used belowground unless otherwise provided for under the provisions of the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010:\nProvided that the Central Government or the Chief Inspector or an Inspector authorized by the Central Government may, subject to such conditions as may be specified, permit the continuance of the use of non-flame-proof apparatus or equipment for a specified period, not exceeding one year, in any mine of the first degree gassiness, which has subsequently been classified as second or third degree gassiness.\n(3) The Chief Inspector may, from time to time by notification in the Official Gazette, specify appliances, equipment, machinery, or other material, that are or may be used in a mine, which shall be of such type, standard and make as approved by the Chief Inspector by a general or special order, and where any such appliance, equipment, machinery or other material had been specified by the Chief Inspector, any such appliance, equipment, machinery, or material, other than that approved by the Chief Inspector as aforesaid, shall not be used in any mine.\n(4) Where in respect of any appliance, equipment, machinery or other material, the Chief Inspector has not made any notification under sub-regulation (3) and any such appliance, equipment, machinery or material is used in any mine, the Chief Inspector or Regional Inspector may, if he is of the opinion that the use of such appliance, equipment, machinery, or material is likely to endanger safety in the mine, by an order in writing, prohibit the use thereof until the same is approved by the Chief Inspector.\n(5) The owner, agent or manager of a mine while acquiring any approved type of machinery, equipment, apparatus, device, lamp, light or materials shall ensure that they conform to approved specifications in all respects and shall also be responsible for maintaining them as per the approved standard.\n(6) A copy of approval of every approved machinery, equipment and device being used shall be kept at the office of the mine.\n(7) Where machinery is used for lifting, pulling, drilling, other than by hand-held drill, dinting, ripping, cutting, loading, hauling or dumping, safe code of practices separately for each type of machinery with respect to the method of work, shall be framed by the person authorised for the purpose, containing codes for the control and guidance of persons employed for the erection, installation, operation, repairs, maintenance, dismantling and transportation of such machinery and ancillary equipment as well as for the prevention of accidents and to provide for the safety, health, convenience and discipline of the persons so employed and the engineer authorised for the purpose shall be responsible for the implementation of the above safe code of practices.\n(8) Where surface transportation and handling machinery including coal handling plants, repair sheds or workshops are provided, safe code of practices for their erection, installation, operation, repairs, maintenance, dismantling and transportation of such machinery, plants and ancillary equipment as well as for the prevention of accidents and to provide for the safety, health, convenience and discipline of the persons so employed shall be framed by the person authorised for the purpose, and the engineer authorised for the purpose shall be responsible for the implementation of the above safe code of practices."
+}
+
+{
+  "title": "General provisions for construction and maintenance of machinery",
+  "context": "All parts and working gear, whether fixed or movable, including the anchoring and fixing appliances, of all machinery and apparatus used as or forming part of the equipment of a mine, and all foundations in or to which any such appliances are anchored or fixed shall be of good design, sound construction, suitable material, adequate strength and free from visible defect and shall be properly maintained."
+}
+
+{
+  "title": "Apparatus under pressure",
+  "context": "(1) All apparatus, used as or forming part of the equipment of a mine, which contains or produces air, gas or steam at a pressure greater than atmospheric pressure shall be so designed, constructed, installed and maintained as to obviate any risk of fire, bursting, explosion or collapse or the production of noxious gases.\n\n(2) Every air receiver forming part of a compressing plant shall be fitted with a safety valve and an air gauge which shows pressure in excess of the atmospheric pressure.\n\n(3) Before an air-receiver is cased in or put in commission, the engineer or other competent person shall subject it to a hydraulic test at a pressure at least one-and-a-half times the maximum permissible working pressure and a similar such test shall be made after every
+
+ renewal or repair and in any case at intervals of not more than three years.\n\n(4) The result of every such test under sub-regulation (3) shall be recorded in a bound paged book kept for the purpose duly signed and dated by the person carrying out the test.\n\n(5) The supply of air for air-compressors shall be drawn from a source free from dust and fumes.\n\n(6) All apparatus used as or forming part of the equipment in a mine which contains or produces hydraulic fluid or emulsion under pressure shall be so designed, constructed, installed and maintained as to obviate any risk of bursting and fire."
+}
+
+{
+  "title": "Precautions regarding moving parts of machinery",
+  "context": "(1) Every winch or windlass shall be provided and used with a stopper, pawl or other reliable holder.\n(2) Every drum, fly-wheel and every other dangerous exposed part of any machinery used as, or forming part of the equipment of a mine shall be adequately fenced by suitable guards of substantial construction to prevent danger and such guards shall be kept in position while the parts of the machinery are in motion or in use, but they may be removed for carrying out any examination, adjustment or repair if adequate precautions are taken.\n(3) It shall be the duty of the engineer in-charge, the supervisory officials and other authorised persons to keep all guarding properly maintained in good condition and in the correct position.\n(4) No person shall, or shall be allowed to repair, adjust, clean or lubricate machinery in motion where there is risk of injury.\n(5) No person shall, or shall be allowed to, shift or adjust a driving belt or rope while the machinery is in motion unless a proper mechanical appliance is provided and used for the purpose.\n(6) No person in close proximity to moving machinery shall wear, or be permitted to wear, loose outer clothing.\n(7) No unauthorised person shall enter any engine room or in any way interfere with the engine."
+}
+
+{
+  "title": "Engine rooms and their exits",
+  "context": "Every engine, motor, transformer and battery charging room, and every room in which highly inflammable materials are stored on the surface shall be kept clean, and be provided with at least two exits, which shall be properly maintained and kept free from obstruction."
+}
+
+{
+  "title": "Working and examination of machinery",
+  "context": "(1) No machinery shall be operated otherwise than by or under the constant supervision of a competent person.\n(2) In a gassy seam of the second or third degree no person shall be appointed to supervise or operate any electrical machinery, apparatus or appliance other than a telephone or signaling device or an electric lamp or light unless he holds a gas-testing certificate, who shall while on duty be provided with and carry an approved flame safety lamp or any other apparatus for determination of inflammable gas as approved by the Chief Inspector and check for the presence of inflammable gas in the atmosphere.\n(3) Every person in-charge of any machinery, apparatus or appliance shall, before commencing work, see that it is in proper working order and if he observes any defect therein, he shall immediately report the fact to the manager, engineer or other competent person.\n(4) Every person in-charge of an air-receiver shall see that no extra weight is added to the safety valves and that the permissible pressure of air is not exceeded.\n(5) A competent person or persons appointed for the purpose shall, once at least in every seven days, make a thorough inspection of all machinery and plant in use, and shall record the result thereof in a bound paged book kept for the purpose.\n(6) In respect of electrical machinery and plant, the competent person shall be an engineer or electrician holding qualifications as specified in the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010."
+}
+
+{
+  "title": "Belowground face equipment, continuous mining and coal cutting machines",
+  "context": "(1) All self-propelled face equipment, including shuttle cars, which are used in belowground coal mines shall be equipped with substantially constructed canopies or cabs, located and installed in such a manner that when the operator is at the operating control of such equipment he shall be protected from falls of roof, face or side.\n(2) Methane monitors shall be installed on all roof bolting machines and cutting machines, continuous miners, longwall face equipment, loading machines and other mechanized equipment used to extract or load coal.\n(3) Roof bolting machines, continuous miners and coal loading equipment shall be equipped with adequate lighting to illuminate the workplace.\n(4) All face equipment used to cut coal or drill holes for roof support shall be equipped with engineering controls such as water sprays, dust collector and air-scrubber system to control respirable coal mine dust.\n(5) Where remote-controlled devices are used in belowground coal mines and on coal faces to operate continuous mining machines or other such equipment, the owner, agent, and manager shall ensure-\n(a) testing of the remote-controlled devices to ensure they are all on separate frequencies and will not accidentally cause a machine not been intentionally operated to activate or move;\n(b) proper training of all operators on the use of the remote control device;\n(c) designing of a mining scheme for the use of remote control mining equipment which include the safe location for the machine operators and any other workers in the area to prevent crushing accidents while the machine is in movement, and from respirable dust and noise hazard."
+}
+
+{
+  "title": "Cranes and lifting gears",
+  "context": "(1) All machinery used to lift or transport equipment and materials, shall be designed, constructed and erected, inspected, maintained and operated as specified by the manufacturer.\n(2) The rated capacity or legible load chart, where appropriate, of a crane, hoist, grab, or winch shall be permanently marked on the structure at a clearly visible place and, in any case, such machinery shall not be operated at a capacity in excess of the rated limit.\n(3) No person shall load any crane, grab or winch in excess of the safe working load except for the purpose of a test, which shall be carried out by an authorized person and only in a manner specified by the manufacturer.\n(4) The rated capacity of a hoist shall not exceed the capacity of the structure supporting the hoist.\n(5) The engineer or other competent persons shall regularly inspect and maintain all cranes and hoists to ensure that every component thereof is capable of carrying out its original designed function, who shall also maintain a record thereof, duly signed and dated by him.\n(6) A crane or hoist shall not be used until any condition that may endanger safety of any person is remedied.\n(7) All installations, modifications, and repairs to load-bearing equipment shall be certified by a competent person or authorized organization in accordance with the original design and safety standard.\n(8) All cranes or hoists with a boom that is movable in the vertical plane shall-\n(a) have a device that can be clearly read by the operator, to indicate the boom angle if the rated capacity is affected; and\n(b) be fitted with an automatic load indicator showing the safe working load.\n(9) All modifications that affect the rated capacity of a crane or hoist shall be assessed, and the rated capacity shall be adjusted by the original equipment manufacturer or a competent person or authorized organization.\n(10) There shall be a safe means of access and egress to the operator’s position and to maintenance locations for all cranes and hoists.\n(11) If a normal means of egress is not always available to the operator, then an alternative safe means shall be provided to get from the operating position to a safe area in the event of a power failure or other emergency.\n(12) Effective audible and visual communications devices shall be installed on a crane or hoist.\n(13) The crane or hoist operator shall sound a warning signal when it is necessary to alert workers.\n(14) All controls on a crane or hoist shall be clearly identified and shall return to neutral when released, and an automatic braking system shall be activated.\n(15) The operator of a crane or hoist shall be protected against hazardous conditions such as airborne contaminants, falling or flying objects, and excessive heat or cold.\n(16) The operator’s seat on a crane or hoist shall be of an ergonomic design that allows the operator to operate the equipment safely.\n(17) All the hooks, hook guards or latches, wire ropes, chains, and other attachments and fittings shall be maintained and inspected on a regular basis.\n(18) The operator of a crane or hoist shall perform a check at the start of each shift and test the limit switch and a report thereof shall be maintained.\n(19) Transport routes for cranes shall be clear of obstructions and transport routes for wheeled or tracked cranes shall, as far as practicable be level.\n(20) Training shall be given to crane operators to ensure proper and safe operation of the crane and rigging loads
+
+."
+}
+{
+  "title": "Design, operation and maintenance of heavy earth moving machineries (HEMMs) including trucks, tippers and dumpers",
+  "context": "(1) Every shovel, dragline, dozer and surface miner shall be so designed as to afford the operator clear and uninterrupted vision all around.\n(2) Every heavy earth moving machinery, including trucks and tippers, used in the mine shall be fitted with such safety features or devices as the Chief Inspector may, from time to time, specify by a general order in writing.\n(3) Truck-mounted drill machines designed for tube well drilling for sources of water shall not be used and only a proper type of blast hole drill machine, especially designed for mining purpose, shall be used in the mine.\n(4) Every heavy earth moving machinery shall be under the charge of a competent person, authorized in writing by the manager, herein called the 'Operator’ or ‘Driver'.\n(5) All persons employed or to be employed to operate heavy earth moving machinery shall be trained and their competency shall be evaluated by a Board constituted by the management, who shall be persons who are not connected with imparting of training:\nProvided that the training officer may be co-opted in the Board as an observer.\n(6) Only such fitters or mechanics possessing driver's or operator's license shall be allowed to carry out a test run of heavy earth moving machineries.\n(7) No person other than the operator or the manager or any person so authorized in writing by the manager shall be allowed to ride on a heavy earth moving machinery."
+}
+
+{
+  "title": "General precautions",
+  "context": "(1) All machinery and plant used in connection with the working of a mine shall be of good design, sound construction, and suitable material, adequate strength, free from patent defect and properly maintained.\n(2) The owner, agent and manager shall provide adequate training facilities and ensure proper training of persons employed for the operation and maintenance of machinery and plant.\n(3) No person except an engineer or other competent person under his supervision shall undertake any work on machinery and plant in which technical knowledge or experience is required."
+}
+{
+  "title": "Notice of Intention or proposal of exploration for methane",
+  "context": "(1) Whenever there is any proposal or intention to explore for the presence of methane, in any coal seam or coal measure strata of any working or abandoned coal mines or part thereof, with the objective to exploit the methane or any other gases for captive, domestic or industrial purposes, the owner, agent and manager of the mine shall, not less than six months prior to the date of the start of such exploration work, give notice in writing in the Form and method as may be specified by the Chief Inspector for the purpose, to the Chief Inspector and also to the Regional Inspector:\nProvided that in the case of an abandoned mine, a notice of reopening shall also be submitted as specified under these regulations.\n(2) The notice so required under sub-regulation (1) shall be submitted along with:\n(a) a pre-feasibility report prepared by an agency recognized for the purpose, having knowledge, experience, and expertise in the required fields and subjects to explore such presence of methane;\n(b) a report on the manner of exploration work proposed to be undertaken and the details of organization, agency, and any other contractor by which all or the parts of the jobs are proposed to be carried out within such a period as planned or proposed;\n(c) details of machinery, equipment, instruments, and apparatus along with their specifications, parameters, and all relevant information, that are proposed to be used in the exploration work;\n(d) persons and the category of persons including officials, competent persons, officers, and staff with organization structure and chart clearly specifying duties and responsibilities thereof;\n(e) plans and sections of the mine prepared adhering to general requirements under these regulations, clearly showing the coal seams, coal measure strata, target seams and strata or the places of the working or abandoned mines from where the methane is proposed to be extracted, their extent and all other details as required, present and future working from where coal is or shall be extracted; and\n(f) plans and sections of the area prepared adhering to general requirements under these regulations, showing details of exploration work that is proposed to be undertaken indicating the proposed layout of the area over which drilling or any other exploration work is to be undertaken.\n(3) The Chief Inspector may, by an order in writing and subject to such conditions as may be specified therein, require any alteration, modification, and additional requirements to be incorporated in the exploration plan or the project.\n(4) No exploration plan or project as mentioned in sub-regulation (3) aforesaid shall be started or undertaken unless a written order or approval in that respect is obtained from the Chief Inspector.\n(5) The date of starting the execution of the exploration plan or project shall be communicated forthwith to the Chief Inspector and to the Regional Inspector."
+}
+
+{
+  "title": "Submission of the exploration or abandonment of the exploration report",
+  "context": "(1) On completion of the exploration work in the mine or part thereof, a detailed exploration report complete in all respects shall be submitted to the Chief Inspector and a copy thereof to the Regional Inspector:\nProvided that an interim report, if so required by the Chief Inspector, shall also be submitted from time to time.\n(2) If during exploration, it is decided to abandon or discontinue further exploration in the area, mine or part thereof, a notice to that effect in the Form as may be specified by the Chief Inspector for the purpose, enclosing therewith the detailed exploration work carried thereon shall be submitted forthwith to the Chief Inspector and the Regional Inspector.\n(3) The plans and sections prepared adhering to general requirements under these regulations, showing the details of all the boreholes drilled, abandoned or incomplete with details such as diameter, depth and direction of every section of the borehole, extent of water, gas, etc., and any other information, shall be submitted along with the report mentioned under sub-regulation (2).\n(4) All the boreholes drilled or excavation made therein during exploration shall be effectively sealed or plugged so as to prevent any leakage of gas therefrom or any other gas or liquid matter flowing there into unless otherwise is required to be used further.\n(5) A record of all such boreholes giving details as mentioned in this regulation shall be maintained in a bound paged book kept for the purpose, duly signed and dated by the driller or drilling engineer, assistant manager and countersigned and dated by the manager."
+}
+
+{
+"title": "Notice of commencement of extraction of methane",
+"context": "(1) Whenever there is any proposal or intention to commence or start the extraction of methane from any coal seam or coal measure strata of any working or abandoned mines or part thereof, with an objective to exploit the methane or any other gases for captive, domestic or industrial purposes, the owner, agent and manager of the mine shall, not less than thirty days prior to the date of the start of such extraction work, give notice in writing in the Form and method as may be specified by the Chief Inspector for the purpose, to the Chief Inspector and also to the Regional Inspector.\n(2) The notice so required under sub-regulation (1) shall be submitted along with a detailed project report prepared by an agency recognized for the purpose having knowledge, experience, and expertise in the required fields and subjects incorporating the following, namely:-\n(a) the manner of extraction or exploitation work proposed to be undertaken and the details of organization, agency, and any other contractor by which all or the parts of the jobs are proposed to be carried out within such time period as planned or proposed;\n(b) details of machinery, equipment, instruments, and apparatus along with their specifications, parameters, and all relevant information, that are proposed to be used;\n(c) persons and the category of persons including officials, competent persons, officers, and staff with organization structure and chart clearly specifying duties and responsibilities thereof;\n(d) plans and sections of the mine prepared adhering to general requirements under these regulations, clearly showing the coal seams, coal measure strata, target seams and strata or the places of the working or abandoned mines from where the methane is proposed to be extracted, their extent and all other details as required, present and future working from where methane as well as coal is or shall be extracted; and\n(e) plans and sections of the area prepared adhering to general requirements under these regulations, showing details of exploration work that is already completed and also the remaining area over which drilling or any other exploration work are yet to be undertaken.\n(3) The Chief Inspector may, by an order in writing and subject to such conditions as may be specified therein, require any alteration, modification, and additional requirement to be incorporated in the extraction plan or the project.\n(4) No extraction plan or project as mentioned in this regulation shall be started or undertaken unless a written order or approval in that respect is obtained from the Chief Inspector."
+}
+
+{
+  "title": "Notice of closure, abandonment or discontinuance of extraction of methane",
+  "context": "(1) Whenever there is any proposal or intention to close or abandon or discontinue extraction of methane from any coal seam or coal measure strata of any working or abandoned mines or part thereof, the owner, agent and manager of the mine shall, not less than sixty days prior to the date of start of such closure, abandonment or discontinuance of extraction work, give notice in writing in the Form and method as may be specified by the Chief Inspector for the purpose, to the Chief Inspector and also to the Regional Inspector.\n(2) The notice so required under sub-regulation (1) shall be submitted with the following information, namely:-\n(a) the reasons for closure, abandonment or discontinuance;\n(b) plans and sections of the mine or part thereof prepared adhering to general requirements under these regulations, clearly showing the coal seams, coal measure strata, target seams and strata or the places of the working or abandoned mines from where the methane has already been extracted,\ntheir extent and all other details as required under these regulations, present and future working from where methane as well as coal are likely to be extracted;\n(c) plans and sections of the area prepared adhering to general requirements under these regulations, showing details of extraction work that is already completed and the conditions of all the boreholes and the part of working abandoned or discontinued; and\n(d) protective work like sealing or isolation of working or any other work already completed and all those work required to be done so as to make the area safe and secure in all respects.\n(3) The Chief Inspector may, by an order in writing and subject to such conditions as may be specified therein, require any other work as required to be completed before closure, abandonment, or discontinuation of such working, by the owner of the mine.\n(4) If the owner and agent fail to complete the remaining work required to be done before closure or abandonment or discontinuance of the working in a mine or part thereof, the Chief Inspector may get such protective work done by any other agency and the charges so incurred shall be defrayed from the owner as an arrear of land revenue."
+}
+
+{
+  "title": "Annual returns",
+  "context": "(1) On or before 1st day of February in every year, the owner, agent or manager shall submit to the Chief Inspector and the Regional Inspector annual returns in respect of the preceding year in the Form and method as may be specified by the Chief Inspector for the purpose."
+}
+
+{
+  "title": "Manner of extraction of methane",
+  "context": "(1) Owner, agent and manager of every mine from where methane is extracted, shall prepare a standard manner of extraction of methane from the target seam or the coal measure strata and submit the same to the Chief Inspector for approval.\n(2) If methane is proposed to be extracted from an abandoned or closed mine or part thereof, or from a discontinued working of a mine or part thereof or from an existing working of a mine or part thereof, the owner, agent and manager of such mine shall also prepare a standard manner of extraction of methane from such place and submit the same to the Chief Inspector for approval.\n(3) No extraction of methane from coal seam and the coal measure strata of a closed or abandoned or discontinued working of a coal mine or of a working mine or part thereof shall be done without permission in writing and subject to such conditions as may be specified therein is obtained from the Chief Inspector."
+}
+
+{
+  "title": "Drill machine",
+  "context": "(1) The drill machine and each of its accessories shall, as far as practicable, be of non-inflammable material and any inflammable material, if used, shall be shrouded with substantial metallic covering to render it non-inflammable.\n(2) Drill machine shall be provided with—\n(a) an efficient headlight capable of showing any obstruction in the working place ahead;\n(b) an efficient portable fire extinguisher so placed as to be within easy reach of the operator and also with an automatic type of fire detection and suppression system; and\n(c) a seat for the operator and a canopy overhead shall be provided to protect the operator from falling objects.\n(3) No drill machine shall be operated otherwise than by a competent person appointed in writing by the manager to be the operator of the drill machine:\nProvided that for repairs or tests, the drill machine can be operated by a competent person, other than the operator, authorized in writing by the manager.\n(4) Drill machine shall not be used at any workplace where there is, after allowing for the swing of the machine, clear space not less than the following, namely:-\n(a) below the roof or its support 0.3 meter; and,\n(b) on the sides 0.6 meter.\n(5) While the drill machine is in operation, no person other than the person authorized in writing by the manager, shall be allowed to stay on the machine or in the vicinity thereof.\n(6) Every workplace in which a drill machine is used shall be placed under the charge of a competent person or persons who shall once at least in every shift, examine every such workplace with particular regard to –\n(i) clearance and whether free from any obstruction;\n(ii) the state of the roof and sides;\n(iii) ventilation; and\n(iv) general safety\n(7) The competent person making the examination under sub-regulation (6) shall record the results thereof in a bound paged book kept for the purpose duly signed by the competent person and countersigned by the manager."
+}
+
+{
+  "title": "Drilling operation",
+  "context": "In connection with methane exploration or extraction activities in a belowground mine or part thereof, the conditions and other details for the conduct of drilling operation shall be specified by the Chief Inspector, by a general or special order."
+}
+
+{
+  "title": "Production drilling and extraction of methane from boreholes",
+  "context": "(1) While drilling for exploration or extraction of methane through boreholes, all precautions and arrangements shall be made to ensure that no frictional or open spark occurs inside the borehole containing methane gas or likely to contain methane which may cause explosion or blow out in the borehole.\n(2) Before commencement of degasification from a hole, necessary arrangements shall be made to control the release of the methane through the degasification hole.\n(3) Arrangements shall be made and kept functional to ensure that there is no leakage of gas from the borehole.\n(4) Automatic gas and leakage detectors fitted with audio-visual alarms shall be provided at the collar of the borehole to give warning in the event of any leakage of inflammable gas or any other noxious gas from the borehole into the atmosphere.\n(5) In addition to the automatic detector mentioned in sub-regulation (4), a competent person shall check for the leakage of inflammable or noxious gases using a hand-held gas detector at regular intervals during the shift and a record thereof shall be maintained in a bound-paged book kept for the purpose, duly
+
+ signed and dated by him and countersigned and dated by the assistant manager in-charge of the drilling operations and the manager."
+}
+
+{
+  "title": "Ventilation plan for methane exploration or extraction belowground",
+  "context": "(1) A ventilation plan as required under clause (d) of sub-regulation (1) of regulation 65 shall be maintained, showing in addition, the position of each exploration and production borehole and gas transportation pipelines.\n(2) Ventilation planning of the mine shall be done in consultation with a scientific body of repute, and the quantity as well as quality of air reaching in each split and gallery through which gas transportation pipeline passes, shall be fixed.\n(3) Air measurement stations shall be fixed at each split through which the gas transportation pipeline passes in belowground working and air measurement at all such stations shall be taken in each shift and the record thereof maintained in a bound-paged book kept for the purpose, duly signed by the ventilation officer and assistant manager in-charge of the methane exploration or extraction operations and countersigned and dated by the manager of the mine.\n(4) Whenever the normal ventilation of the mine is disturbed, all methane exploration or extraction activities shall be stopped forthwith and work shall not be resumed till the normal ventilation of the mine is restored.\n(5) A coal barrier of not less than 150 meters in thickness shall be maintained in the same seam from old boreholes and present working of the mine from where exploration or extraction of methane is in progress.\n(6) The ventilation plan and section required to be kept maintained under sub-regulation (1) shall be kept updated at specified intervals and shall be signed by the ventilation officer and assistant manager-in-charge of methane exploration or extraction operations, and countersigned and dated by the manager."
+}
+
+{
+  "title": "Water and gas separation",
+  "context": "Water separation and removal equipment shall be installed at each degasification hole, at lower points in the main gas pipeline."
+}
+
+{
+  "title": "Welding, cutting or fusion, etc.",
+  "context": "In connection with methane exploration or extraction activities in a belowground mine or part thereof, flame or electric welding, cutting or repairing apparatus may be used if prior permission in writing has been obtained from the Regional Inspector and subject to such conditions as he may specify therein."
+}
+
+{
+  "title": "Methane gas transportation belowground",
+  "context": "The conditions and other details for methane gas transportation belowground shall be specified by the Chief Inspector, by a general or special order."
+}
+
+{
+  "title": "Sectionalisation of methane pipelines",
+  "context": "(1) The main gas pipelines shall be sectionalized so that in the event of a rupture in the pipeline, the methane gas in the general body of the air gets diluted within the permissible limit.\n(2) Sectionalization shall be accomplished with automatic control valves which shall be of the spring-loaded type and pneumatic valves that fail close.\n(3) The tracer tubing shall be connected to the pneumatic valve on each degasification hole, which shall be activated (fail close) whenever pressure is lost in the tracer tubing and also when the automatic control valves on the pipeline are actuated."
+}
+
+{
+  "title": "Methane and other gas monitoring system in case of positive pressure in reservoir",
+  "context": "(1) A proper automatic online or continuous methane monitoring system fitted with audio-visual alarms shall be installed along the gas pipelines.\n(2) Methane monitors shall be placed at every five hundred meters interval along the main pipeline in the return airway or at a closer interval if so required by the Regional Inspector.\n(3) Methane monitors shall be interfaced to the electrically actuated valves attached to the tracer tubing.\n(4) The methane monitoring system shall be provided with an uninterrupted power supply arrangement.\n(5) All air that crosses or passes the pipeline shall be monitored by methane monitors.\n(6) Calibration of each methane monitor and the system so installed shall be done quarterly, and a record of the same shall be maintained in a bound-paged book kept for the purpose, duly signed by the competent person and countersigned by the assistant manager-in-charge of methane exploration or extraction operations and the manager.\n(7) All gas monitors and automatic gas detecting systems shall be of a type approved in writing by the Chief Inspector, and the repairs and calibrations of all such monitors and systems shall be undertaken only at an approved laboratory."
+}
+
+{
+  "title": "Communication",
+  "context": "Proper means of an efficient and effective telephonic communication system shall be installed and maintained between surface and belowground working and at the strategic points all along gas transportation pipelines in belowground and on the surface, which shall be of a type approved by the Chief Inspector."
+}
+
+{
+  "title": "Inspection and examination of machinery and equipment for methane exploration and extraction",
+  "context": "(1) All the installations, pipelines, and safety systems installed shall be examined daily by a competent person authorized for the purpose, and the results of all such examinations shall be recorded in a bound-paged book kept for the purpose, duly signed by the competent person and countersigned by the assistant manager-in-charge of methane exploration or extraction operations and the manager.\n(2) A suitable log book shall be maintained wherein shall be recorded the repair or maintenance job in the pipeline and other installations, and the record of the same shall be kept in a bound-paged book kept for the purpose, duly signed by the competent person and countersigned by the assistant manager-in-charge of methane exploration or extraction operations and the manager."
+}
+
+{
+  "title": "Responsibility of owner, agents, managers, engineers, competent persons, and officials",
+  "context": "The owner, agents, managers, engineers, competent persons, and officials shall each be responsible for securing effective compliance with the provisions relating to the exploration or extraction of methane from coal seams, working or abandoned coal mines, or parts thereof."
+}
+
+{
+  "title": "General provisions",
+  "context": "(1) Owner, agent, and manager, in consultation with the expert agencies, shall frame suitable codes of safe practices and standard operating procedures for development, extraction, storage, transport, and all other related operations required for the extraction of abandoned mine methane or coal mine methane as the case may be.\n(2) The code of safe practices and standard operating procedures shall be circulated to all the concerned persons and officials who shall ensure their compliance.\n(3) A copy of the code of safe practices and standard operating procedures so framed shall be sent to the Regional Inspector who may examine and modify the same if so required.\n(4) The work persons, staff, and officials involved in the exploration or recovery of coal mine methane or abandoned mine methane projects and activities shall be adequately trained.\n(5) Work persons, staff, and officials involved in the exploration or recovery of coal mine methane or abandoned mine methane projects and activities shall not be changed normally unless replaced with equally trained and competent persons, staff, or officials."
+}
+{
+  "title": "Fences",
+  "context": "(1) Every tank or reservoir or other dangerous place in or about a mine, which has been formed as a result of, or is used in connection with, mining operations, shall be kept securely fenced.\n(2) Every fence erected on the surface shall, once at least in every seven days, be examined by a competent person, and a report of every such inspection shall be recorded in a bound-paged book kept for the purpose, duly signed and dated by the person who made the examination.\n(3) Any fence, gate, or barricade may be temporarily removed for the purpose of repairs or other operations if adequate precautions are taken.\n(4) If any doubt arises as to whether any fence, guard, barrier, or gate provided under this regulation is adequate, proper, or secure, or as to whether the precautions taken under sub-regulation (3) are adequate, it shall be referred to the Chief Inspector for decision."
+}
+
+{
+  "title": "Notices",
+  "context": "Where at any place smoking or unauthorized entry is prohibited, notices to that effect shall be posted at conspicuous places at every entrance to the place."
+}
+
+{
+  "title": "General safety",
+  "context": "No person shall negligently or willfully do anything likely to endanger life or limb in the mine, or negligently or willfully omit to do anything necessary for the safety of the mine or the persons employed therein."
+}
+
+{
+  "title": "Use, supply and maintenance of protective footwear",
+  "context": "(1) No person shall go into, or work, or be allowed to go into, or work in a mine unless he wears protective footwear of such type as may be approved by the Chief Inspector by a general or special order in writing.\n(2) The protective footwear referred to in sub-regulation (1) shall be supplied free of charge, at intervals not exceeding six months, by the owner, agent, or manager of a mine, who shall at all times maintain a sufficient stock of protective footwear to ensure immediate supply as and when needed.\n(3) Where footwear is provided otherwise than as specified in this regulation, the supply shall be made on payment of full cost.\n(4) The owner, agent, or manager of a mine shall provide suitable places in the mine for cleaning protective footwear, or make other suitable alternative arrangements for cleaning by the persons using them. It shall be the responsibility of the person supplied with protective footwear to arrange for the repair of the same at his own cost."
+}
+
+{
+  "title": "Use and supply of helmet",
+  "context": "(1) No person shall go into, work, or be allowed to go into or work in a mine, other than the precincts of a mine occupied by an office building, canteen, crèche, rest shelter, first aid room, or any other building of a similar type unless he wears a helmet of such type as may be approved by the Chief Inspector by a general or special order in writing. The Chief Inspector may exempt certain persons or classes of persons from wearing helmets under special circumstances.\n(2) The helmet referred to in sub-regulation (1) shall be supplied free of charge, at intervals not exceeding three years or as specified by the Chief Inspector, by the owner, agent, or manager of a mine, who shall maintain a sufficient stock thereof for immediate replacement in case of accidental damage during legitimate use."
+}
+
+{
+  "title": "Supply of other personal protective equipment",
+  "context": "(1) Where it appears to the Regional Inspector or the Chief Inspector that any person or class of persons employed in a mine is exposed to undue hazard due to the nature of their employment, the owner, agent, or manager of the mine may be required to supply, free of charge, gloves, goggles, shin guards, respirators, or other specified protective equipment by a general or special order in writing.\n(2) The protective equipment provided under sub-regulation (1) shall be replaced free of charge by the owner, agent, or manager whenever it is rendered unserviceable by legitimate use. Replacement in other cases shall be made at full cost.\n(3) Disputes regarding the life of protective equipment shall be referred to the Chief Inspector for resolution."
+}
+
+{
+  "title": "Use, supply and maintenance of self-rescuer",
+  "context": "(1) No person shall go into, work, or be permitted to go into or work belowground in any mine unless he is provided with and carries with him a self-rescuer of an approved type, as specified by the Chief Inspector.\n(2) If such a self-rescuer is accidentally damaged during use, goes out of order, becomes unserviceable, or exceeds its specified life, the owner, agent, or manager shall immediately replace it.\n(3) The owner, agent, or manager of the mine shall maintain a sufficient stock of self-rescuers for immediate replacement when needed. Adequate arrangements for cleaning, maintenance, and inspection of self-rescuers shall be provided at the mine. Training in the use of self-rescuers shall be provided to relevant personnel as specified by the Chief Inspector."
+}
+
+{
+  "title": "Obligation of persons provided with personal protective equipment",
+  "context": "Whenever any person is supplied by the owner, agent, or manager of a mine with any personal protective equipment, he shall use the same while doing the work for which he is supplied with such protective equipment."
+}
+
+{
+  "title": "Information about sickness",
+  "context": "Every official or competent person shall, in case of sickness or lawful absence, give early and sufficient notice thereof to his superior official or the manager, as the case may be, so that a substitute may be arranged."
+}
+
+{
+  "title": "Manpower distribution plan",
+  "context": "During the first week of every month, a survey shall be made of the number of persons normally employed in every district and other places belowground in the mine, and a sketch plan showing the results of such a manpower survey, signed and dated by the manager, shall be kept in the office of the mine, and a copy shall be kept with the attendance clerk."
+}
+
+{
+  "title": "Sirdars and overmen",
+  "context": "(1) No person shall be appointed as a competent person under various regulations unless he is the holder of either an Overman’s Certificate or a Manager’s Certificate.\n(2) No person shall be appointed as a competent person under specific regulations unless he is the holder of either a Manager’s Certificate or Overman’s Certificate or a Sirdar’s Certificate together with a gas testing certificate. Special provisions may apply for mines with opencast workings.\n(3) In mines with opencast workings only, persons holding Sirdar’s Certificates, Overman’s Certificates, or Manager’s Certificates restricted to opencast workings may be appointed as competent persons under specific regulations if special conditions exist. The Chief Inspector may permit or require the appointment of any person, not necessarily holding a Manager’s Certificate or Overman’s Certificate or a Sirdar’s Certificate, as a competent person under certain regulations in exceptional cases."
+}
+
+{
+  "title": "Officials to be literate",
+  "context": "No person shall be appointed as an official of a mine unless he is literate and
+
+ is conversant with the language of the district in which the mine is situated or with the language understood by a majority of the persons employed in the mine. Exemptions may apply to managers, assistant managers, engineers, and surveyors."
+}
+
+{
+  "title": "Writing of reports",
+  "context": "(1) If any person required to make any report is unable to write, a competent person authorized by the manager shall write the report on his behalf and in his presence. The person for whom the report is written shall attach his thumb mark or signature after the report is read over to him by the competent person.\n(2) The competent person writing the report shall certify that it has been read over to the person for whom it was written, and shall sign the certificate and date his signature."
+}
+
+{
+  "title": "Payment of fees",
+  "context": "Any fees payable under these regulations shall be paid by means of a crossed Indian Postal Order, Bank Draft, electronic mode, or other specified means as may be determined by the Chief Inspector."
+}
+{
+  "title": "Place of accident not to be disturbed",
+  "context": "(1) Whenever an accident occurs in or about a mine causing loss of life or serious bodily injury to any person, the place of accident shall not be disturbed or altered before the arrival or without the consent of the Chief Inspector or the Inspector. Such disturbance or alteration is allowed only when necessary to prevent further accidents, remove bodies of the deceased, rescue endangered persons, or if discontinuance of work would seriously impede mine operations. If the Chief Inspector or Inspector fails to inspect the accident site within seventy-two hours, work may resume there.\n(2) Before disturbing or altering the site of a fatal or serious accident, a sketch must be prepared, signed by the relevant personnel, and supported by photographs. One copy of this sketch must be delivered to the concerned Inspector.\n(3) If the site is disturbed before the sketch is prepared, it must be created immediately afterward with all relevant details as they existed before the disturbance."
+}
+
+{
+  "title": "Emergency response and evacuation plan",
+  "context": "(1) The owner, agent, and manager of every mine must have a comprehensive emergency response program in place, covering injuries, illnesses, foreseeable industrial and natural disasters, immediate first-aid and medical treatment, transportation, evacuation, and rescue procedures. This program shall include provisions for mine evacuations, establishment of responsibilities, emergency communication systems, notification procedures, safe withdrawal of persons from danger, personnel training, equipment provisions, response teams, personnel accounting, information dissemination, and regular drills.\n(2) The owner, agent, and manager shall submit this plan to the regional inspector, who may approve it with or without modifications. The approved plan shall be enforced at the mine.\n(3) Upon receiving information of an emergency, the emergency action plan shall be immediately implemented."
+}
+
+{
+  "title": "Taking samples from mine",
+  "context": "When an Inspector deems it necessary to take samples of coal, rope, or other material for official purposes, the owner, agent, or manager shall provide the required samples in the quantities specified by the Inspector."
+}
+
+{
+  "title": "Right of the workers’ representative to inspect register maintained under sub-section (1) of section 48 of Act",
+  "context": "The register maintained under sub-section (1) of section 48 of the Act shall be accessible for inspection by a workers’ representative authorized by the mine's employees upon application."
+}
+
+{
+  "title": "Chief Inspector or authorized Inspector to exercise powers of Regional Inspector",
+  "context": "The Chief Inspector or any other Inspector authorized in writing by the Chief Inspector may exercise powers granted to the Regional Inspector under these regulations."
+}
+
+{
+  "title": "Plans, sections and records",
+  "context": "In cases of special conditions, the Chief Inspector may allow the preparation and maintenance of plans, sections, and records required under these regulations in electronic form, subject to specified conditions, within specified limits of error in survey and plotting."
+}
+
+{
+  "title": "Publication of orders and instructions",
+  "context": "Orders and instructions issued under these regulations shall be published in the Official Gazette and by other appropriate means as specified by the Chief Inspector."
+}
+
+{
+  "title": "Appeal to the Chief Inspector",
+  "context": "(1) An appeal can be made against an order issued by the Regional Inspector under these regulations to the Chief Inspector, who may confirm, modify, or cancel the order.\n(2) Such appeals must be filed within fifteen days of receiving the order."
+}
+
+{
+  "title": "Appeal to Committee",
+  "context": "(1) An appeal can be made against any order issued by the Chief Inspector under these regulations or against any order passed under regulation 258 to the Committee constituted under section 12 of the Act. The appeal must be filed within twenty days of receiving the order.\n(2) Pending the decision of the Committee, every order of the Chief Inspector against which an appeal is made shall be complied with, although the Committee may suspend the operation of the appealed order upon request by the appellant.\n"
+}
+
+{
+  "title": "Repeal and savings",
+  "context": "(1) The Coal Mines Regulations, 1957, are repealed.\n(2) Despite the repeal in sub-regulation (1), anything done or action taken under the repealed regulations, including orders, certificates, authorizations, permits, directions, shall be deemed to have been done or taken under the corresponding provisions of these regulations."
+}
